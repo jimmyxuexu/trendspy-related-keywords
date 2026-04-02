@@ -14,6 +14,7 @@ from html import escape
 from config import (
     EMAIL_CONFIG, 
     KEYWORDS, 
+    KEYWORD_GROUPS,
     RATE_LIMIT_CONFIG, 
     SCHEDULE_CONFIG,
     MONITOR_CONFIG,
@@ -96,7 +97,7 @@ def generate_daily_report(results, directory):
 
 def _load_keyword_snapshots(directory):
     """Load per-keyword JSON files from a completed run."""
-    snapshots = []
+    snapshots_by_keyword = {}
     prefix = STORAGE_CONFIG['json_filename_prefix']
 
     for filename in sorted(os.listdir(directory)):
@@ -107,15 +108,24 @@ def _load_keyword_snapshots(directory):
         with open(filepath, 'r', encoding='utf-8') as f:
             payload = json.load(f)
 
-        snapshots.append({
+        keyword = payload.get('keyword', '')
+        snapshots_by_keyword[keyword] = {
             'keyword': payload.get('keyword', ''),
             'timestamp': payload.get('timestamp', ''),
             'filename': filename,
             'top': payload.get('related_queries', {}).get('top') or [],
             'rising': payload.get('related_queries', {}).get('rising') or [],
-        })
+        }
 
-    return snapshots
+    ordered_snapshots = []
+    for keyword in KEYWORDS:
+        if keyword in snapshots_by_keyword:
+            ordered_snapshots.append(snapshots_by_keyword[keyword])
+
+    for keyword in sorted(k for k in snapshots_by_keyword if k not in KEYWORDS):
+        ordered_snapshots.append(snapshots_by_keyword[keyword])
+
+    return ordered_snapshots
 
 def _copy_run_assets(directory, target_dir):
     """Copy generated CSV and JSON files into the static site directory."""
@@ -153,6 +163,70 @@ def _render_rows_table(rows, value_label):
         "</table>"
     )
 
+def _slugify(value):
+    chars = []
+    for char in value.lower():
+        if char.isalnum():
+            chars.append(char)
+        elif char in [' ', '-', '_']:
+            chars.append('-')
+
+    slug = ''.join(chars).strip('-')
+    while '--' in slug:
+        slug = slug.replace('--', '-')
+    return slug or 'group'
+
+def _build_group_payload(snapshots):
+    snapshots_by_keyword = {snapshot['keyword']: snapshot for snapshot in snapshots}
+    grouped = []
+    seen_keywords = set()
+
+    for group in KEYWORD_GROUPS:
+        group_snapshots = []
+        missing_keywords = []
+
+        for keyword in group['keywords']:
+            snapshot = snapshots_by_keyword.get(keyword)
+            if snapshot:
+                group_snapshots.append(snapshot)
+                seen_keywords.add(keyword)
+            else:
+                missing_keywords.append(keyword)
+
+        grouped.append({
+            'name': group['name'],
+            'slug': _slugify(group['name']),
+            'snapshots': group_snapshots,
+            'missing_keywords': missing_keywords,
+            'configured_keywords': len(group['keywords']),
+            'successful_keywords': len(group_snapshots),
+        })
+
+    uncategorized = [snapshot for snapshot in snapshots if snapshot['keyword'] not in seen_keywords]
+    if uncategorized:
+        grouped.append({
+            'name': 'Uncategorized',
+            'slug': 'uncategorized',
+            'snapshots': uncategorized,
+            'missing_keywords': [],
+            'configured_keywords': len(uncategorized),
+            'successful_keywords': len(uncategorized),
+        })
+
+    return grouped
+
+def _render_group_nav(group_payload):
+    pills = []
+    for group in group_payload:
+        pills.append(
+            "<a class='group-pill' href='#" + escape(group['slug']) + "'>"
+            f"<span>{escape(group['name'])}</span>"
+            f"<strong>{group['successful_keywords']}/{group['configured_keywords']}</strong>"
+            "</a>"
+        )
+
+    return ''.join(pills)
+
 def _render_keyword_sections(snapshots):
     sections = []
 
@@ -175,6 +249,33 @@ def _render_keyword_sections(snapshots):
         )
 
     return ''.join(sections) if sections else "<p class='empty'>No keyword snapshots were generated.</p>"
+
+def _render_group_sections(group_payload):
+    sections = []
+
+    for group in group_payload:
+        missing_note = ""
+        if group['missing_keywords']:
+            missing_note = (
+                "<p class='meta'>Missing in this run: "
+                + escape(', '.join(group['missing_keywords']))
+                + "</p>"
+            )
+
+        sections.append(
+            "<section class='group-block' id='" + escape(group['slug']) + "'>"
+            "<div class='group-header'>"
+            f"<div><h2>{escape(group['name'])}</h2>"
+            f"<p class='meta'>{group['successful_keywords']} of {group['configured_keywords']} keywords produced data.</p>"
+            f"{missing_note}</div>"
+            "</div>"
+            "<div class='grid'>"
+            f"{_render_keyword_sections(group['snapshots'])}"
+            "</div>"
+            "</section>"
+        )
+
+    return ''.join(sections) if sections else "<p class='empty'>No grouped keyword data is available.</p>"
 
 def _render_alerts_table(high_rising_trends):
     if not high_rising_trends:
@@ -212,6 +313,7 @@ def _render_history_list(history_entries):
 def _build_site_html(site_payload, history_entries):
     summary = site_payload['summary']
     files = site_payload['files']
+    group_payload = site_payload['grouped_snapshots']
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -318,6 +420,38 @@ def _build_site_html(site_payload, history_entries):
       color: var(--text);
       text-decoration: none;
       font-weight: 600;
+    }}
+    .group-nav {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 18px;
+    }}
+    .group-pill {{
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, var(--surface) 0%, var(--surface-strong) 100%);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+    }}
+    .group-pill strong {{
+      color: var(--accent);
+      font-size: 0.95rem;
+    }}
+    .group-block {{
+      margin-top: 28px;
+    }}
+    .group-header {{
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 12px;
+      margin-bottom: 14px;
     }}
     table {{
       width: 100%;
@@ -433,9 +567,17 @@ def _build_site_html(site_payload, history_entries):
     </section>
 
     <section class="section">
+      <h2>Group Navigation</h2>
+      <p class="meta">The 51 monitored keywords are organized into the themes you defined, so you can jump straight to the section you care about.</p>
+      <div class="group-nav">
+        {_render_group_nav(group_payload)}
+      </div>
+    </section>
+
+    <section class="section">
       <h2>Keyword Drilldown</h2>
       <div class="grid">
-        {_render_keyword_sections(site_payload['snapshots'])}
+        {_render_group_sections(group_payload)}
       </div>
     </section>
 
@@ -460,6 +602,7 @@ def publish_static_site(directory, report_file, high_rising_trends, resolved_tim
         {'keyword': keyword, 'query': query, 'value': value}
         for keyword, query, value in high_rising_trends
     ]
+    grouped_snapshots = _build_group_payload(snapshots)
 
     site_payload = {
         'date': run_date,
@@ -469,6 +612,7 @@ def publish_static_site(directory, report_file, high_rising_trends, resolved_tim
         'region': TRENDS_CONFIG['geo'] or 'Global',
         'source_directory': directory,
         'snapshots': snapshots,
+        'grouped_snapshots': grouped_snapshots,
         'high_rising_trends': high_rising_payload,
         'summary': {
             'configured_keywords': len(KEYWORDS),

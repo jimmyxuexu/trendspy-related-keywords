@@ -21,13 +21,85 @@ EMAIL_CONFIG = {
 
 # Keywords to monitor
 KEYWORDS = [
-   
-    "Image",
-    "Video",
-    "Music",
-    "Voice",
-    "Text",
+    "Translator",
+    "Generator",
+    "Example",
+    "Convert",
+    "Online",
+    "Downloader",
+    "Maker",
+    "Creator",
+    "Editor",
+    "Processor",
+    "Designer",
+    "Compiler",
+    "Analyzer",
+    "Evaluator",
+    "Sender",
+    "Receiver",
+    "Interpreter",
+    "Uploader",
+    "Calculator",
+    "Sample",
+    "Template",
+    "Format",
+    "Builder",
+    "Scheme",
+    "Pattern",
+    "Checker",
+    "Detector",
+    "Scraper",
+    "Manager",
+    "Explorer",
+    "Dashboard",
+    "Planner",
+    "Tracker",
+    "Recorder",
+    "Optimizer",
+    "Scheduler",
+    "Converter",
+    "Viewer",
+    "Extractor",
+    "Monitor",
+    "Notifier",
+    "Verifier",
+    "Simulator",
+    "Assistant",
+    "Constructor",
+    "Comparator",
+    "Navigator",
+    "Syncer",
+    "Connector",
+    "Cataloger",
+    "Responder",
     # Add more keywords as needed
+]
+
+KEYWORD_GROUPS = [
+    {
+        'name': 'Translation And Creation',
+        'keywords': ['Translator', 'Generator', 'Example', 'Convert', 'Online', 'Downloader', 'Maker', 'Creator', 'Editor', 'Processor'],
+    },
+    {
+        'name': 'Design And Delivery',
+        'keywords': ['Designer', 'Compiler', 'Analyzer', 'Evaluator', 'Sender', 'Receiver', 'Interpreter', 'Uploader', 'Calculator', 'Sample'],
+    },
+    {
+        'name': 'Templates And Discovery',
+        'keywords': ['Template', 'Format', 'Builder', 'Scheme', 'Pattern', 'Checker', 'Detector', 'Scraper', 'Manager', 'Explorer'],
+    },
+    {
+        'name': 'Planning And Tracking',
+        'keywords': ['Dashboard', 'Planner', 'Tracker', 'Recorder', 'Optimizer'],
+    },
+    {
+        'name': 'Automation And Monitoring',
+        'keywords': ['Scheduler', 'Converter', 'Viewer', 'Extractor', 'Monitor', 'Notifier', 'Verifier', 'Simulator', 'Assistant', 'Constructor'],
+    },
+    {
+        'name': 'Navigation And Response',
+        'keywords': ['Comparator', 'Navigator', 'Syncer', 'Connector', 'Cataloger', 'Responder'],
+    },
 ]
 
 
@@ -41,10 +113,10 @@ TRENDS_CONFIG = {
 # Rate Limiting Configuration
 RATE_LIMIT_CONFIG = {
     'max_retries': 3,
-    'min_delay_between_queries': 10,  # 最小延迟10秒
-    'max_delay_between_queries': 20,  # 最大延迟20秒
-    'batch_size': 5,  # 每批处理的关键词数量
-    'batch_interval': 300,  # 批次间隔时间（秒）
+    'min_delay_between_queries': 3,  # 最小延迟3秒
+    'max_delay_between_queries': 6,  # 最大延迟6秒
+    'batch_size': 10,  # 每批处理的关键词数量
+    'batch_interval': 20,  # 批次间隔时间（秒）
 }
 
 # Schedule Configuration
