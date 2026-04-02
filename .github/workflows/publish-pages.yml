@@ -14,6 +14,10 @@ jobs:
     env:
       TZ: Asia/Shanghai
       TRENDS_NOTIFICATION_METHOD: none
+      PYTHONUNBUFFERED: "1"
+      TRENDS_QUERY_MAX_ATTEMPTS: "2"
+      TRENDS_QUOTA_RETRY_SECONDS: "30"
+      TRENDS_EMPTY_RETRY_SECONDS: "10"
     steps:
       - name: Check out repository
         uses: actions/checkout@v4

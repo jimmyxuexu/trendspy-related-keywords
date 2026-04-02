@@ -3,16 +3,24 @@ import pandas as pd
 import json
 import time
 import random
+import os
 from datetime import datetime
 import requests
 from urllib.parse import quote
 import re
 
+IS_GITHUB_ACTIONS = os.getenv('GITHUB_ACTIONS', '').lower() == 'true'
+MAX_QUERY_ATTEMPTS = int(os.getenv('TRENDS_QUERY_MAX_ATTEMPTS', '2' if IS_GITHUB_ACTIONS else '4'))
+QUOTA_RETRY_SECONDS = int(os.getenv('TRENDS_QUOTA_RETRY_SECONDS', '45' if IS_GITHUB_ACTIONS else '300'))
+EMPTY_RETRY_SECONDS = int(os.getenv('TRENDS_EMPTY_RETRY_SECONDS', '15' if IS_GITHUB_ACTIONS else '90'))
+
 def get_related_queries(keyword, geo='', timeframe='today 12-m'):
     """
     获取关键词的相关查询数据，带请求限制
     """
-    while True:  # 添加无限重试循环
+    last_error = None
+
+    for attempt in range(1, MAX_QUERY_ATTEMPTS + 1):
         tr = Trends(hl='zh-CN')
         
         # 随机化 User-Agent
@@ -45,29 +53,36 @@ def get_related_queries(keyword, geo='', timeframe='today 12-m'):
                 geo=geo,
                 timeframe=timeframe
             )
-            print(f"成功获取数据！")
+            print(f"成功获取数据！关键词={keyword}，尝试次数={attempt}", flush=True)
             return related_data
             
         except Exception as e:
+            last_error = e
             error_msg = str(e)
-            print(f"尝试获取数据时出错: {error_msg}")
+            print(
+                f"尝试获取数据时出错: 关键词={keyword}，第 {attempt}/{MAX_QUERY_ATTEMPTS} 次，错误={error_msg}",
+                flush=True
+            )
             
             # 如果是配额超限错误，等待后重试
-            if "API quota exceeded" in error_msg:
-                wait_time = random.uniform(300, 360)  # 等待5-6分钟
-                print(f"API配额超限，等待 {wait_time:.1f} 秒后重试...")
+            if "API quota exceeded" in error_msg and attempt < MAX_QUERY_ATTEMPTS:
+                wait_time = QUOTA_RETRY_SECONDS + random.uniform(0, 15)
+                print(f"API配额超限，等待 {wait_time:.1f} 秒后重试...", flush=True)
                 time.sleep(wait_time)
-                continue  # 继续下一次重试
+                continue
             
             # 如果是NoneType错误，也等待后重试
-            if "'NoneType' object has no attribute 'raise_for_status'" in error_msg:
-                wait_time = random.uniform(60, 120)  # 等待1-2分钟
-                print(f"请求返回为空，等待 {wait_time:.1f} 秒后重试...")
+            if "'NoneType' object has no attribute 'raise_for_status'" in error_msg and attempt < MAX_QUERY_ATTEMPTS:
+                wait_time = EMPTY_RETRY_SECONDS + random.uniform(0, 10)
+                print(f"请求返回为空，等待 {wait_time:.1f} 秒后重试...", flush=True)
                 time.sleep(wait_time)
-                continue  # 继续下一次重试
+                continue
                 
             # 其他错误则直接抛出
             raise
+
+    if last_error:
+        raise last_error
 
 def batch_get_queries(keywords, geo='', timeframe='today 12-m', delay_between_queries=5):
     """
@@ -77,17 +92,17 @@ def batch_get_queries(keywords, geo='', timeframe='today 12-m', delay_between_qu
     
     for keyword in keywords:
         try:
-            print(f"\n正在查询关键词: {keyword}")
+            print(f"\n正在查询关键词: {keyword}", flush=True)
             results[keyword] = get_related_queries(keyword, geo, timeframe)
             
             # 在请求之间添加延时
             if keyword != keywords[-1]:  # 如果不是最后一个关键词
                 delay = delay_between_queries + random.uniform(0, 2)  # 基础延时加0-2秒的随机延时
-                print(f"等待 {delay:.1f} 秒后继续下一个查询...")
+                print(f"等待 {delay:.1f} 秒后继续下一个查询...", flush=True)
                 time.sleep(delay)
                 
         except Exception as e:
-            print(f"获取 {keyword} 的数据失败: {str(e)}")
+            print(f"获取 {keyword} 的数据失败: {str(e)}", flush=True)
             results[keyword] = None
             
             # 如果遇到错误，增加额外等待时间
@@ -223,7 +238,7 @@ class RequestLimiter:
         """如果需要，等待直到可以发送请求"""
         while not self.can_make_request():
             wait_time = random.uniform(5, 10)
-            print(f"达到请求限制，等待 {wait_time:.1f} 秒...")
+            print(f"达到请求限制，等待 {wait_time:.1f} 秒...", flush=True)
             time.sleep(wait_time)
         self.add_request()
 
