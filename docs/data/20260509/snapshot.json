@@ -1,0 +1,585 @@
+{
+  "date": "20260509",
+  "generated_at": "2026-05-09 01:15:55",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-05-06 2026-05-09",
+  "region": "Global",
+  "source_directory": "data_20260509",
+  "snapshots": [
+    {
+      "keyword": "Generator",
+      "timestamp": "2026-05-09 00:54:20",
+      "filename": "related_queries_Generator_20260509_005420.json",
+      "top": [
+        {
+          "query": "ai generator",
+          "value": 100
+        },
+        {
+          "query": "image generator",
+          "value": 35
+        },
+        {
+          "query": "video generator",
+          "value": 33
+        },
+        {
+          "query": "random generator",
+          "value": 32
+        },
+        {
+          "query": "qr generator",
+          "value": 29
+        },
+        {
+          "query": "qr code",
+          "value": 29
+        },
+        {
+          "query": "video generator ai",
+          "value": 28
+        },
+        {
+          "query": "qr code generator",
+          "value": 27
+        },
+        {
+          "query": "ai image generator",
+          "value": 26
+        },
+        {
+          "query": "number generator",
+          "value": 26
+        },
+        {
+          "query": "name generator",
+          "value": 24
+        },
+        {
+          "query": "font generator",
+          "value": 23
+        },
+        {
+          "query": "font",
+          "value": 22
+        },
+        {
+          "query": "text generator",
+          "value": 18
+        },
+        {
+          "query": "random number generator",
+          "value": 15
+        },
+        {
+          "query": "barcode generator",
+          "value": 13
+        },
+        {
+          "query": "free video generator ai",
+          "value": 13
+        },
+        {
+          "query": "citation generator",
+          "value": 12
+        },
+        {
+          "query": "password generator",
+          "value": 11
+        },
+        {
+          "query": "free image generator",
+          "value": 10
+        },
+        {
+          "query": "meme generator",
+          "value": 9
+        },
+        {
+          "query": "free image generator ai",
+          "value": 8
+        },
+        {
+          "query": "pdf generator",
+          "value": 8
+        },
+        {
+          "query": "apa generator",
+          "value": 8
+        },
+        {
+          "query": "word generator",
+          "value": 8
+        }
+      ],
+      "rising": [
+        {
+          "query": "guid generator",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Convert",
+      "timestamp": "2026-05-09 00:54:20",
+      "filename": "related_queries_Convert_20260509_005420.json",
+      "top": [
+        {
+          "query": "pdf convert",
+          "value": 100
+        },
+        {
+          "query": "convert pdf to pdf",
+          "value": 91
+        },
+        {
+          "query": "convert to pdf",
+          "value": 88
+        },
+        {
+          "query": "convert to word",
+          "value": 45
+        },
+        {
+          "query": "convert to pdf to word",
+          "value": 40
+        },
+        {
+          "query": "convert word to pdf",
+          "value": 39
+        },
+        {
+          "query": "convert jpg",
+          "value": 29
+        },
+        {
+          "query": "convert to jpg",
+          "value": 29
+        },
+        {
+          "query": "free convert",
+          "value": 21
+        },
+        {
+          "query": "convert mp3",
+          "value": 17
+        },
+        {
+          "query": "online convert",
+          "value": 17
+        },
+        {
+          "query": "convert youtube",
+          "value": 14
+        },
+        {
+          "query": "convert to mp3",
+          "value": 13
+        },
+        {
+          "query": "convert video",
+          "value": 13
+        },
+        {
+          "query": "convert to pdf free",
+          "value": 10
+        },
+        {
+          "query": "mp4 convert",
+          "value": 9
+        },
+        {
+          "query": "convert pdf to excel",
+          "value": 9
+        },
+        {
+          "query": "pdf to excel",
+          "value": 9
+        },
+        {
+          "query": "excel convert to pdf",
+          "value": 9
+        },
+        {
+          "query": "youtube convert mp3",
+          "value": 8
+        },
+        {
+          "query": "convert to mp4",
+          "value": 8
+        },
+        {
+          "query": "convert to english",
+          "value": 7
+        },
+        {
+          "query": "convert to png",
+          "value": 6
+        },
+        {
+          "query": "convert into pdf",
+          "value": 5
+        },
+        {
+          "query": "convert pdf to word free",
+          "value": 4
+        }
+      ],
+      "rising": [
+        {
+          "query": "youtube video download mp3 convert audio app",
+          "value": 60
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Generator",
+          "timestamp": "2026-05-09 00:54:20",
+          "filename": "related_queries_Generator_20260509_005420.json",
+          "top": [
+            {
+              "query": "ai generator",
+              "value": 100
+            },
+            {
+              "query": "image generator",
+              "value": 35
+            },
+            {
+              "query": "video generator",
+              "value": 33
+            },
+            {
+              "query": "random generator",
+              "value": 32
+            },
+            {
+              "query": "qr generator",
+              "value": 29
+            },
+            {
+              "query": "qr code",
+              "value": 29
+            },
+            {
+              "query": "video generator ai",
+              "value": 28
+            },
+            {
+              "query": "qr code generator",
+              "value": 27
+            },
+            {
+              "query": "ai image generator",
+              "value": 26
+            },
+            {
+              "query": "number generator",
+              "value": 26
+            },
+            {
+              "query": "name generator",
+              "value": 24
+            },
+            {
+              "query": "font generator",
+              "value": 23
+            },
+            {
+              "query": "font",
+              "value": 22
+            },
+            {
+              "query": "text generator",
+              "value": 18
+            },
+            {
+              "query": "random number generator",
+              "value": 15
+            },
+            {
+              "query": "barcode generator",
+              "value": 13
+            },
+            {
+              "query": "free video generator ai",
+              "value": 13
+            },
+            {
+              "query": "citation generator",
+              "value": 12
+            },
+            {
+              "query": "password generator",
+              "value": 11
+            },
+            {
+              "query": "free image generator",
+              "value": 10
+            },
+            {
+              "query": "meme generator",
+              "value": 9
+            },
+            {
+              "query": "free image generator ai",
+              "value": 8
+            },
+            {
+              "query": "pdf generator",
+              "value": 8
+            },
+            {
+              "query": "apa generator",
+              "value": 8
+            },
+            {
+              "query": "word generator",
+              "value": 8
+            }
+          ],
+          "rising": [
+            {
+              "query": "guid generator",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Convert",
+          "timestamp": "2026-05-09 00:54:20",
+          "filename": "related_queries_Convert_20260509_005420.json",
+          "top": [
+            {
+              "query": "pdf convert",
+              "value": 100
+            },
+            {
+              "query": "convert pdf to pdf",
+              "value": 91
+            },
+            {
+              "query": "convert to pdf",
+              "value": 88
+            },
+            {
+              "query": "convert to word",
+              "value": 45
+            },
+            {
+              "query": "convert to pdf to word",
+              "value": 40
+            },
+            {
+              "query": "convert word to pdf",
+              "value": 39
+            },
+            {
+              "query": "convert jpg",
+              "value": 29
+            },
+            {
+              "query": "convert to jpg",
+              "value": 29
+            },
+            {
+              "query": "free convert",
+              "value": 21
+            },
+            {
+              "query": "convert mp3",
+              "value": 17
+            },
+            {
+              "query": "online convert",
+              "value": 17
+            },
+            {
+              "query": "convert youtube",
+              "value": 14
+            },
+            {
+              "query": "convert to mp3",
+              "value": 13
+            },
+            {
+              "query": "convert video",
+              "value": 13
+            },
+            {
+              "query": "convert to pdf free",
+              "value": 10
+            },
+            {
+              "query": "mp4 convert",
+              "value": 9
+            },
+            {
+              "query": "convert pdf to excel",
+              "value": 9
+            },
+            {
+              "query": "pdf to excel",
+              "value": 9
+            },
+            {
+              "query": "excel convert to pdf",
+              "value": 9
+            },
+            {
+              "query": "youtube convert mp3",
+              "value": 8
+            },
+            {
+              "query": "convert to mp4",
+              "value": 8
+            },
+            {
+              "query": "convert to english",
+              "value": 7
+            },
+            {
+              "query": "convert to png",
+              "value": 6
+            },
+            {
+              "query": "convert into pdf",
+              "value": 5
+            },
+            {
+              "query": "convert pdf to word free",
+              "value": 4
+            }
+          ],
+          "rising": [
+            {
+              "query": "youtube video download mp3 convert audio app",
+              "value": 60
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Translator",
+        "Example",
+        "Online",
+        "Downloader",
+        "Maker",
+        "Creator",
+        "Editor",
+        "Processor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 2
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Analyzer",
+        "Evaluator",
+        "Sender",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 2,
+    "failed_keywords": 49,
+    "high_rising_count": 0
+  },
+  "files": {
+    "csv": "data/20260509/daily_report_20260509.csv",
+    "json": "data/20260509/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20260509/daily_report_20260509.csv",
+      "data/20260509/related_queries_Convert_20260509_005420.json",
+      "data/20260509/related_queries_Generator_20260509_005420.json"
+    ]
+  }
+}
