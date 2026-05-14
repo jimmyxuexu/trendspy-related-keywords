@@ -1,0 +1,2840 @@
+{
+  "date": "20260515",
+  "generated_at": "2026-05-15 01:41:40",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-05-12 2026-05-15",
+  "region": "Global",
+  "source_directory": "data_20260515",
+  "snapshots": [
+    {
+      "keyword": "Translator",
+      "timestamp": "2026-05-15 01:21:44",
+      "filename": "related_queries_Translator_20260515_012144.json",
+      "top": [
+        {
+          "query": "translator english",
+          "value": 100
+        },
+        {
+          "query": "translator google",
+          "value": 74
+        },
+        {
+          "query": "tagalog translator",
+          "value": 28
+        },
+        {
+          "query": "tagalog english translator",
+          "value": 25
+        },
+        {
+          "query": "translator tagalog to english",
+          "value": 23
+        },
+        {
+          "query": "english to tagalog",
+          "value": 22
+        },
+        {
+          "query": "language translator",
+          "value": 21
+        },
+        {
+          "query": "spanish translator",
+          "value": 20
+        },
+        {
+          "query": "spanish",
+          "value": 19
+        },
+        {
+          "query": "translator deepl",
+          "value": 14
+        },
+        {
+          "query": "hindi translator",
+          "value": 13
+        },
+        {
+          "query": "english spanish translator",
+          "value": 11
+        },
+        {
+          "query": "english hindi translator",
+          "value": 11
+        },
+        {
+          "query": "translator online",
+          "value": 11
+        },
+        {
+          "query": "ai translator",
+          "value": 10
+        },
+        {
+          "query": "translator spanish to english",
+          "value": 10
+        },
+        {
+          "query": "morse translator",
+          "value": 10
+        },
+        {
+          "query": "translator english to hindi",
+          "value": 10
+        },
+        {
+          "query": "translator hindi to english",
+          "value": 10
+        },
+        {
+          "query": "morse code translator",
+          "value": 10
+        },
+        {
+          "query": "morse code",
+          "value": 10
+        },
+        {
+          "query": "translator app",
+          "value": 7
+        },
+        {
+          "query": "translate to english",
+          "value": 7
+        },
+        {
+          "query": "chinese translator",
+          "value": 7
+        },
+        {
+          "query": "pdf translator",
+          "value": 6
+        }
+      ],
+      "rising": [
+        {
+          "query": "google translator from english to hindi",
+          "value": 60
+        },
+        {
+          "query": "deeple translator",
+          "value": 60
+        },
+        {
+          "query": "translator hiszpańsko polski",
+          "value": 50
+        },
+        {
+          "query": "czat gpt",
+          "value": 50
+        },
+        {
+          "query": "www.google translator",
+          "value": 50
+        },
+        {
+          "query": "translator pol ang",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Generator",
+      "timestamp": "2026-05-15 01:21:44",
+      "filename": "related_queries_Generator_20260515_012144.json",
+      "top": [
+        {
+          "query": "ai generator",
+          "value": 100
+        },
+        {
+          "query": "video generator",
+          "value": 38
+        },
+        {
+          "query": "image generator",
+          "value": 35
+        },
+        {
+          "query": "random generator",
+          "value": 33
+        },
+        {
+          "query": "qr generator",
+          "value": 32
+        },
+        {
+          "query": "ai video",
+          "value": 30
+        },
+        {
+          "query": "video ai generator",
+          "value": 30
+        },
+        {
+          "query": "number generator",
+          "value": 28
+        },
+        {
+          "query": "ai image generator",
+          "value": 28
+        },
+        {
+          "query": "qr code generator",
+          "value": 27
+        },
+        {
+          "query": "qr code",
+          "value": 27
+        },
+        {
+          "query": "name generator",
+          "value": 25
+        },
+        {
+          "query": "font",
+          "value": 22
+        },
+        {
+          "query": "font generator",
+          "value": 21
+        },
+        {
+          "query": "text generator",
+          "value": 17
+        },
+        {
+          "query": "random number generator",
+          "value": 16
+        },
+        {
+          "query": "ai video generator free",
+          "value": 15
+        },
+        {
+          "query": "barcode generator",
+          "value": 13
+        },
+        {
+          "query": "password generator",
+          "value": 11
+        },
+        {
+          "query": "citation generator",
+          "value": 11
+        },
+        {
+          "query": "free image generator",
+          "value": 10
+        },
+        {
+          "query": "meme generator",
+          "value": 10
+        },
+        {
+          "query": "ai free image generator",
+          "value": 9
+        },
+        {
+          "query": "generator price",
+          "value": 9
+        },
+        {
+          "query": "word generator",
+          "value": 7
+        }
+      ],
+      "rising": [
+        {
+          "query": "franci",
+          "value": 1600
+        },
+        {
+          "query": "rando",
+          "value": 1300
+        },
+        {
+          "query": "digital circus name generator",
+          "value": 1300
+        },
+        {
+          "query": "wonk",
+          "value": 1250
+        },
+        {
+          "query": "tome",
+          "value": 500
+        },
+        {
+          "query": "uuid generator",
+          "value": 50
+        },
+        {
+          "query": "google flow",
+          "value": 50
+        },
+        {
+          "query": "canva qr code generator",
+          "value": 50
+        },
+        {
+          "query": "guid generator",
+          "value": 40
+        },
+        {
+          "query": "password generator 10 characters",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Example",
+      "timestamp": "2026-05-15 01:21:44",
+      "filename": "related_queries_Example_20260515_012144.json",
+      "top": [
+        {
+          "query": "example of",
+          "value": 100
+        },
+        {
+          "query": "for example",
+          "value": 57
+        },
+        {
+          "query": "what is",
+          "value": 35
+        },
+        {
+          "query": "definition",
+          "value": 6
+        },
+        {
+          "query": "letter example",
+          "value": 5
+        },
+        {
+          "query": "information example",
+          "value": 4
+        },
+        {
+          "query": "essay example",
+          "value": 3
+        },
+        {
+          "query": "resume example",
+          "value": 2
+        },
+        {
+          "query": "check example",
+          "value": 2
+        },
+        {
+          "query": "diagram example",
+          "value": 2
+        },
+        {
+          "query": "give me an example",
+          "value": 2
+        },
+        {
+          "query": "cover letter example",
+          "value": 1
+        },
+        {
+          "query": "example synonym",
+          "value": 1
+        },
+        {
+          "query": "synthesis essay example",
+          "value": 0
+        },
+        {
+          "query": "simile example",
+          "value": 0
+        },
+        {
+          "query": "ap lang synthesis essay example",
+          "value": 0
+        },
+        {
+          "query": "example of personification",
+          "value": 0
+        },
+        {
+          "query": "ap lang rhetorical analysis essay example",
+          "value": 0
+        },
+        {
+          "query": "commensalism",
+          "value": 0
+        },
+        {
+          "query": "mutualism",
+          "value": 0
+        },
+        {
+          "query": "example of mutualism",
+          "value": 0
+        },
+        {
+          "query": "ethos",
+          "value": 0
+        },
+        {
+          "query": "ap psych ebq example",
+          "value": 0
+        },
+        {
+          "query": "ipv6 example",
+          "value": 0
+        },
+        {
+          "query": "ap psych aaq example",
+          "value": 0
+        }
+      ],
+      "rising": [
+        {
+          "query": "ap lang synthesis essay example",
+          "value": 750
+        },
+        {
+          "query": "ap lang rhetorical analysis essay example",
+          "value": 650
+        },
+        {
+          "query": "synthesis essay example",
+          "value": 500
+        },
+        {
+          "query": "ap psych aaq example",
+          "value": 300
+        },
+        {
+          "query": "ap psych ebq example",
+          "value": 250
+        },
+        {
+          "query": "define the term register",
+          "value": 250
+        },
+        {
+          "query": "ebq ap psychology example",
+          "value": 250
+        },
+        {
+          "query": "ap lang calculator",
+          "value": 250
+        },
+        {
+          "query": "ap lang score calculator",
+          "value": 200
+        },
+        {
+          "query": "full meaning of ip",
+          "value": 190
+        },
+        {
+          "query": "niyuktha meaning in malayalam with example",
+          "value": 120
+        },
+        {
+          "query": "operational definition example",
+          "value": 60
+        },
+        {
+          "query": "ipv6 example",
+          "value": 50
+        },
+        {
+          "query": "ethos",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Convert",
+      "timestamp": "2026-05-15 01:21:44",
+      "filename": "related_queries_Convert_20260515_012144.json",
+      "top": [
+        {
+          "query": "pdf convert",
+          "value": 100
+        },
+        {
+          "query": "convert to pdf",
+          "value": 91
+        },
+        {
+          "query": "convert to word",
+          "value": 47
+        },
+        {
+          "query": "word convert to pdf",
+          "value": 40
+        },
+        {
+          "query": "convert jpg",
+          "value": 31
+        },
+        {
+          "query": "convert to jpg",
+          "value": 29
+        },
+        {
+          "query": "free convert",
+          "value": 22
+        },
+        {
+          "query": "convert jpg to pdf",
+          "value": 19
+        },
+        {
+          "query": "convert mp3",
+          "value": 18
+        },
+        {
+          "query": "online convert",
+          "value": 17
+        },
+        {
+          "query": "convert to mp3",
+          "value": 14
+        },
+        {
+          "query": "convert youtube",
+          "value": 14
+        },
+        {
+          "query": "convert video",
+          "value": 13
+        },
+        {
+          "query": "convert to pdf free",
+          "value": 10
+        },
+        {
+          "query": "convert mp4",
+          "value": 10
+        },
+        {
+          "query": "pdf to excel",
+          "value": 9
+        },
+        {
+          "query": "convert pdf to excel",
+          "value": 9
+        },
+        {
+          "query": "convert to mp4",
+          "value": 8
+        },
+        {
+          "query": "convert to english",
+          "value": 8
+        },
+        {
+          "query": "youtube convert mp3",
+          "value": 8
+        },
+        {
+          "query": "convert to pdf online",
+          "value": 7
+        },
+        {
+          "query": "convert to png",
+          "value": 7
+        },
+        {
+          "query": "youtube convert to mp3",
+          "value": 6
+        },
+        {
+          "query": "convert into pdf",
+          "value": 5
+        },
+        {
+          "query": "convert to jpeg",
+          "value": 5
+        }
+      ],
+      "rising": []
+    },
+    {
+      "keyword": "Online",
+      "timestamp": "2026-05-15 01:21:44",
+      "filename": "related_queries_Online_20260515_012144.json",
+      "top": [
+        {
+          "query": "casino online",
+          "value": 100
+        },
+        {
+          "query": "online games",
+          "value": 20
+        },
+        {
+          "query": "online game",
+          "value": 17
+        },
+        {
+          "query": "casino 🇩🇪 spielcasino.vip",
+          "value": 12
+        },
+        {
+          "query": "online casino 🇩🇪 spielcasino.vip",
+          "value": 12
+        },
+        {
+          "query": "casino online www.testsiegerportal24.de",
+          "value": 11
+        },
+        {
+          "query": "casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+          "value": 10
+        },
+        {
+          "query": "casino 🇸🇪 2026 www.casinopelle.net",
+          "value": 10
+        },
+        {
+          "query": "online casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+          "value": 10
+        },
+        {
+          "query": "word online",
+          "value": 10
+        },
+        {
+          "query": "radio online",
+          "value": 9
+        },
+        {
+          "query": "online casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 9
+        },
+        {
+          "query": "casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 9
+        },
+        {
+          "query": "whatsapp online",
+          "value": 8
+        },
+        {
+          "query": "tv online",
+          "value": 7
+        },
+        {
+          "query": "free online games",
+          "value": 5
+        },
+        {
+          "query": "casino online 2026 casinogambiba.live",
+          "value": 4
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 4
+        },
+        {
+          "query": "onlinecasinostar.club 🇩🇪 ohne limit",
+          "value": 3
+        },
+        {
+          "query": "casino zonder registratie 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 2
+        },
+        {
+          "query": "casino online ohne limit onlinecasinostar.club 🇩🇪",
+          "value": 2
+        },
+        {
+          "query": "casino ohne limit 🇩🇪 onlinecasinostar.club",
+          "value": 2
+        },
+        {
+          "query": "online casino beste.casino",
+          "value": 2
+        },
+        {
+          "query": "casino ohne oasis 🇩🇪 onlinecasinostar.club",
+          "value": 2
+        },
+        {
+          "query": "dewi11gek.site",
+          "value": 2
+        }
+      ],
+      "rising": [
+        {
+          "query": "online casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 96500
+        },
+        {
+          "query": "casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 91600
+        },
+        {
+          "query": "casino online 2026 casinogambiba.live",
+          "value": 39500
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 39500
+        },
+        {
+          "query": "onlinecasinostar.club 🇩🇪 ohne limit",
+          "value": 27050
+        },
+        {
+          "query": "casino zonder registratie 🇳🇱 2026 www.micgadget.org 🇳🇱",
+          "value": 23650
+        },
+        {
+          "query": "casino online ohne limit onlinecasinostar.club 🇩🇪",
+          "value": 22750
+        },
+        {
+          "query": "casino ohne limit 🇩🇪 onlinecasinostar.club",
+          "value": 21750
+        },
+        {
+          "query": "online casino beste.casino",
+          "value": 21650
+        },
+        {
+          "query": "casino ohne oasis 🇩🇪 onlinecasinostar.club",
+          "value": 16650
+        },
+        {
+          "query": "dewi11gek.site",
+          "value": 16150
+        },
+        {
+          "query": "casino online ohne oasis onlinecasinostar.club 🇩🇪",
+          "value": 16050
+        },
+        {
+          "query": "casino online ohne lugas onlinecasinostar.club 🇩🇪",
+          "value": 16000
+        },
+        {
+          "query": "casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+          "value": 2100
+        },
+        {
+          "query": "online casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+          "value": 2050
+        },
+        {
+          "query": "casino 🇸🇪 2026 www.casinopelle.net",
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "keyword": "Analyzer",
+      "timestamp": "2026-05-15 01:28:27",
+      "filename": "related_queries_Analyzer_20260515_012827.json",
+      "top": [
+        {
+          "query": "website analyzer",
+          "value": 100
+        },
+        {
+          "query": "the analyzer",
+          "value": 66
+        },
+        {
+          "query": "website analyzer free",
+          "value": 34
+        },
+        {
+          "query": "ai analyzer",
+          "value": 31
+        },
+        {
+          "query": "spectrum analyzer",
+          "value": 28
+        },
+        {
+          "query": "trade analyzer",
+          "value": 28
+        },
+        {
+          "query": "power analyzer",
+          "value": 20
+        },
+        {
+          "query": "gas analyzer",
+          "value": 19
+        },
+        {
+          "query": "network analyzer",
+          "value": 18
+        },
+        {
+          "query": "wifi analyzer",
+          "value": 17
+        },
+        {
+          "query": "seo analyzer",
+          "value": 17
+        },
+        {
+          "query": "me analyzer",
+          "value": 16
+        },
+        {
+          "query": "fantasy trade analyzer",
+          "value": 15
+        },
+        {
+          "query": "log analyzer",
+          "value": 14
+        },
+        {
+          "query": "hematology analyzer",
+          "value": 12
+        },
+        {
+          "query": "skin analyzer",
+          "value": 12
+        },
+        {
+          "query": "web analyzer",
+          "value": 11
+        },
+        {
+          "query": "logic analyzer",
+          "value": 11
+        },
+        {
+          "query": "trade analyzer baseball",
+          "value": 10
+        },
+        {
+          "query": "face analyzer",
+          "value": 9
+        },
+        {
+          "query": "chemistry analyzer",
+          "value": 9
+        },
+        {
+          "query": "audio analyzer",
+          "value": 9
+        },
+        {
+          "query": "body composition analyzer",
+          "value": 9
+        },
+        {
+          "query": "fantasy trade analyzer baseball",
+          "value": 9
+        },
+        {
+          "query": "moisture analyzer",
+          "value": 9
+        }
+      ],
+      "rising": [
+        {
+          "query": "cbse result analyzer",
+          "value": 500
+        },
+        {
+          "query": "kddi location analyzer",
+          "value": 140
+        },
+        {
+          "query": "microsoft baseline security analyzer",
+          "value": 110
+        },
+        {
+          "query": "hemostasis analyzer",
+          "value": 100
+        },
+        {
+          "query": "oligo analyzer",
+          "value": 100
+        },
+        {
+          "query": "finra fund analyzer",
+          "value": 100
+        },
+        {
+          "query": "mxtoolbox",
+          "value": 90
+        },
+        {
+          "query": "urine analyzer machine",
+          "value": 90
+        },
+        {
+          "query": "thread dump analyzer",
+          "value": 80
+        },
+        {
+          "query": "message header analyzer",
+          "value": 80
+        },
+        {
+          "query": "panic full analyzer",
+          "value": 80
+        },
+        {
+          "query": "har analyzer",
+          "value": 70
+        },
+        {
+          "query": "urinalysis analyzer",
+          "value": 60
+        },
+        {
+          "query": "header analyzer",
+          "value": 60
+        },
+        {
+          "query": "email header analyzer",
+          "value": 60
+        },
+        {
+          "query": "forti analyzer",
+          "value": 60
+        },
+        {
+          "query": "mxtoolbox header analyzer",
+          "value": 60
+        },
+        {
+          "query": "minidump analyzer",
+          "value": 60
+        },
+        {
+          "query": "analyser or analyzer",
+          "value": 60
+        },
+        {
+          "query": "log file analyzer",
+          "value": 50
+        },
+        {
+          "query": "iam access analyzer",
+          "value": 50
+        },
+        {
+          "query": "elemental analyzer",
+          "value": 50
+        },
+        {
+          "query": "microsoft remote connectivity analyzer",
+          "value": 50
+        },
+        {
+          "query": "fortinet analyzer",
+          "value": 50
+        },
+        {
+          "query": "blood gas analyzer",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Evaluator",
+      "timestamp": "2026-05-15 01:28:27",
+      "filename": "related_queries_Evaluator_20260515_012827.json",
+      "top": [
+        {
+          "query": "evaluator meaning",
+          "value": 100
+        },
+        {
+          "query": "home evaluator",
+          "value": 81
+        },
+        {
+          "query": "search engine evaluator",
+          "value": 80
+        },
+        {
+          "query": "program evaluator",
+          "value": 80
+        },
+        {
+          "query": "property evaluator",
+          "value": 69
+        },
+        {
+          "query": "car evaluator",
+          "value": 64
+        },
+        {
+          "query": "csp evaluator",
+          "value": 50
+        },
+        {
+          "query": "house evaluator",
+          "value": 38
+        },
+        {
+          "query": "student evaluator",
+          "value": 38
+        },
+        {
+          "query": "social media evaluator",
+          "value": 35
+        },
+        {
+          "query": "search quality evaluator guidelines",
+          "value": 35
+        },
+        {
+          "query": "search engine evaluator jobs",
+          "value": 32
+        },
+        {
+          "query": "migration evaluator",
+          "value": 32
+        },
+        {
+          "query": "domain evaluator",
+          "value": 30
+        },
+        {
+          "query": "remote online evaluator",
+          "value": 28
+        },
+        {
+          "query": "anevar",
+          "value": 25
+        },
+        {
+          "query": "evaluator anevar",
+          "value": 23
+        },
+        {
+          "query": "resume evaluator",
+          "value": 23
+        },
+        {
+          "query": "toastmasters general evaluator",
+          "value": 23
+        },
+        {
+          "query": "appen",
+          "value": 22
+        },
+        {
+          "query": "aws migration evaluator",
+          "value": 21
+        },
+        {
+          "query": "fantasy trade evaluator",
+          "value": 21
+        },
+        {
+          "query": "evaluator imobiliar",
+          "value": 18
+        },
+        {
+          "query": "charity evaluator",
+          "value": 16
+        },
+        {
+          "query": "cron expression evaluator",
+          "value": 16
+        }
+      ],
+      "rising": [
+        {
+          "query": "remotasks",
+          "value": 450
+        },
+        {
+          "query": "toastmasters general evaluator",
+          "value": 250
+        },
+        {
+          "query": "evaluator synonym",
+          "value": 200
+        },
+        {
+          "query": "charity evaluator",
+          "value": 160
+        },
+        {
+          "query": "general evaluator script",
+          "value": 120
+        },
+        {
+          "query": "anevar",
+          "value": 100
+        },
+        {
+          "query": "aws migration evaluator",
+          "value": 80
+        },
+        {
+          "query": "cron expression evaluator",
+          "value": 80
+        },
+        {
+          "query": "trade evaluator fantasy baseball",
+          "value": 80
+        },
+        {
+          "query": "nurse aide evaluator",
+          "value": 70
+        },
+        {
+          "query": "wikipedia",
+          "value": 70
+        },
+        {
+          "query": "welocalize",
+          "value": 70
+        },
+        {
+          "query": "evaluator anevar",
+          "value": 70
+        },
+        {
+          "query": "evaluator meaning in hindi",
+          "value": 70
+        },
+        {
+          "query": "csp evaluator",
+          "value": 60
+        },
+        {
+          "query": "migration evaluator",
+          "value": 60
+        },
+        {
+          "query": "property evaluator near me",
+          "value": 60
+        },
+        {
+          "query": "socmed evaluator",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Sender",
+      "timestamp": "2026-05-15 01:28:27",
+      "filename": "related_queries_Sender_20260515_012827.json",
+      "top": [
+        {
+          "query": "email sender",
+          "value": 100
+        },
+        {
+          "query": "tv sender",
+          "value": 82
+        },
+        {
+          "query": "return to sender",
+          "value": 65
+        },
+        {
+          "query": "message sender",
+          "value": 52
+        },
+        {
+          "query": "sender address",
+          "value": 40
+        },
+        {
+          "query": "sender whatsapp",
+          "value": 38
+        },
+        {
+          "query": "sender one",
+          "value": 37
+        },
+        {
+          "query": "fernsehprogramm",
+          "value": 36
+        },
+        {
+          "query": "fernsehprogramm alle sender",
+          "value": 34
+        },
+        {
+          "query": "fuel sender",
+          "value": 33
+        },
+        {
+          "query": "sender app",
+          "value": 25
+        },
+        {
+          "query": "bulk sender",
+          "value": 24
+        },
+        {
+          "query": "radio sender",
+          "value": 23
+        },
+        {
+          "query": "fernsehprogramm heute",
+          "value": 22
+        },
+        {
+          "query": "fernsehprogramm heute alle sender",
+          "value": 22
+        },
+        {
+          "query": "back to sender",
+          "value": 20
+        },
+        {
+          "query": "esc sender",
+          "value": 18
+        },
+        {
+          "query": "esc",
+          "value": 18
+        },
+        {
+          "query": "fernsehprogramm heute 20.15 alle sender",
+          "value": 17
+        },
+        {
+          "query": "sms sender",
+          "value": 16
+        },
+        {
+          "query": "fernsehprogramm heute abend",
+          "value": 16
+        },
+        {
+          "query": "fernsehprogramm heute abend alle sender",
+          "value": 16
+        },
+        {
+          "query": "sender pro",
+          "value": 15
+        },
+        {
+          "query": "ard sender",
+          "value": 15
+        },
+        {
+          "query": "wa sender",
+          "value": 14
+        }
+      ],
+      "rising": [
+        {
+          "query": "hvem sender pokalfinalen i fodbold 2026",
+          "value": 10400
+        },
+        {
+          "query": "hvem sender pokalfinalen i dag",
+          "value": 4100
+        },
+        {
+          "query": "hvem sender pokalfinalen",
+          "value": 2350
+        },
+        {
+          "query": "pokalfinale 2026 tv",
+          "value": 2100
+        },
+        {
+          "query": "hvem sender pokalfinalen 2026",
+          "value": 1750
+        },
+        {
+          "query": "hvem sender pokalfinalen i fodbold",
+          "value": 1600
+        },
+        {
+          "query": "fenerbahce feyenoord welcher sender",
+          "value": 1550
+        },
+        {
+          "query": "pokalfinale 2026",
+          "value": 1050
+        },
+        {
+          "query": "esc halbfinale 2026",
+          "value": 600
+        },
+        {
+          "query": "eurovision welcher sender",
+          "value": 400
+        },
+        {
+          "query": "esc",
+          "value": 350
+        },
+        {
+          "query": "esc sender",
+          "value": 350
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Translator",
+          "timestamp": "2026-05-15 01:21:44",
+          "filename": "related_queries_Translator_20260515_012144.json",
+          "top": [
+            {
+              "query": "translator english",
+              "value": 100
+            },
+            {
+              "query": "translator google",
+              "value": 74
+            },
+            {
+              "query": "tagalog translator",
+              "value": 28
+            },
+            {
+              "query": "tagalog english translator",
+              "value": 25
+            },
+            {
+              "query": "translator tagalog to english",
+              "value": 23
+            },
+            {
+              "query": "english to tagalog",
+              "value": 22
+            },
+            {
+              "query": "language translator",
+              "value": 21
+            },
+            {
+              "query": "spanish translator",
+              "value": 20
+            },
+            {
+              "query": "spanish",
+              "value": 19
+            },
+            {
+              "query": "translator deepl",
+              "value": 14
+            },
+            {
+              "query": "hindi translator",
+              "value": 13
+            },
+            {
+              "query": "english spanish translator",
+              "value": 11
+            },
+            {
+              "query": "english hindi translator",
+              "value": 11
+            },
+            {
+              "query": "translator online",
+              "value": 11
+            },
+            {
+              "query": "ai translator",
+              "value": 10
+            },
+            {
+              "query": "translator spanish to english",
+              "value": 10
+            },
+            {
+              "query": "morse translator",
+              "value": 10
+            },
+            {
+              "query": "translator english to hindi",
+              "value": 10
+            },
+            {
+              "query": "translator hindi to english",
+              "value": 10
+            },
+            {
+              "query": "morse code translator",
+              "value": 10
+            },
+            {
+              "query": "morse code",
+              "value": 10
+            },
+            {
+              "query": "translator app",
+              "value": 7
+            },
+            {
+              "query": "translate to english",
+              "value": 7
+            },
+            {
+              "query": "chinese translator",
+              "value": 7
+            },
+            {
+              "query": "pdf translator",
+              "value": 6
+            }
+          ],
+          "rising": [
+            {
+              "query": "google translator from english to hindi",
+              "value": 60
+            },
+            {
+              "query": "deeple translator",
+              "value": 60
+            },
+            {
+              "query": "translator hiszpańsko polski",
+              "value": 50
+            },
+            {
+              "query": "czat gpt",
+              "value": 50
+            },
+            {
+              "query": "www.google translator",
+              "value": 50
+            },
+            {
+              "query": "translator pol ang",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Generator",
+          "timestamp": "2026-05-15 01:21:44",
+          "filename": "related_queries_Generator_20260515_012144.json",
+          "top": [
+            {
+              "query": "ai generator",
+              "value": 100
+            },
+            {
+              "query": "video generator",
+              "value": 38
+            },
+            {
+              "query": "image generator",
+              "value": 35
+            },
+            {
+              "query": "random generator",
+              "value": 33
+            },
+            {
+              "query": "qr generator",
+              "value": 32
+            },
+            {
+              "query": "ai video",
+              "value": 30
+            },
+            {
+              "query": "video ai generator",
+              "value": 30
+            },
+            {
+              "query": "number generator",
+              "value": 28
+            },
+            {
+              "query": "ai image generator",
+              "value": 28
+            },
+            {
+              "query": "qr code generator",
+              "value": 27
+            },
+            {
+              "query": "qr code",
+              "value": 27
+            },
+            {
+              "query": "name generator",
+              "value": 25
+            },
+            {
+              "query": "font",
+              "value": 22
+            },
+            {
+              "query": "font generator",
+              "value": 21
+            },
+            {
+              "query": "text generator",
+              "value": 17
+            },
+            {
+              "query": "random number generator",
+              "value": 16
+            },
+            {
+              "query": "ai video generator free",
+              "value": 15
+            },
+            {
+              "query": "barcode generator",
+              "value": 13
+            },
+            {
+              "query": "password generator",
+              "value": 11
+            },
+            {
+              "query": "citation generator",
+              "value": 11
+            },
+            {
+              "query": "free image generator",
+              "value": 10
+            },
+            {
+              "query": "meme generator",
+              "value": 10
+            },
+            {
+              "query": "ai free image generator",
+              "value": 9
+            },
+            {
+              "query": "generator price",
+              "value": 9
+            },
+            {
+              "query": "word generator",
+              "value": 7
+            }
+          ],
+          "rising": [
+            {
+              "query": "franci",
+              "value": 1600
+            },
+            {
+              "query": "rando",
+              "value": 1300
+            },
+            {
+              "query": "digital circus name generator",
+              "value": 1300
+            },
+            {
+              "query": "wonk",
+              "value": 1250
+            },
+            {
+              "query": "tome",
+              "value": 500
+            },
+            {
+              "query": "uuid generator",
+              "value": 50
+            },
+            {
+              "query": "google flow",
+              "value": 50
+            },
+            {
+              "query": "canva qr code generator",
+              "value": 50
+            },
+            {
+              "query": "guid generator",
+              "value": 40
+            },
+            {
+              "query": "password generator 10 characters",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Example",
+          "timestamp": "2026-05-15 01:21:44",
+          "filename": "related_queries_Example_20260515_012144.json",
+          "top": [
+            {
+              "query": "example of",
+              "value": 100
+            },
+            {
+              "query": "for example",
+              "value": 57
+            },
+            {
+              "query": "what is",
+              "value": 35
+            },
+            {
+              "query": "definition",
+              "value": 6
+            },
+            {
+              "query": "letter example",
+              "value": 5
+            },
+            {
+              "query": "information example",
+              "value": 4
+            },
+            {
+              "query": "essay example",
+              "value": 3
+            },
+            {
+              "query": "resume example",
+              "value": 2
+            },
+            {
+              "query": "check example",
+              "value": 2
+            },
+            {
+              "query": "diagram example",
+              "value": 2
+            },
+            {
+              "query": "give me an example",
+              "value": 2
+            },
+            {
+              "query": "cover letter example",
+              "value": 1
+            },
+            {
+              "query": "example synonym",
+              "value": 1
+            },
+            {
+              "query": "synthesis essay example",
+              "value": 0
+            },
+            {
+              "query": "simile example",
+              "value": 0
+            },
+            {
+              "query": "ap lang synthesis essay example",
+              "value": 0
+            },
+            {
+              "query": "example of personification",
+              "value": 0
+            },
+            {
+              "query": "ap lang rhetorical analysis essay example",
+              "value": 0
+            },
+            {
+              "query": "commensalism",
+              "value": 0
+            },
+            {
+              "query": "mutualism",
+              "value": 0
+            },
+            {
+              "query": "example of mutualism",
+              "value": 0
+            },
+            {
+              "query": "ethos",
+              "value": 0
+            },
+            {
+              "query": "ap psych ebq example",
+              "value": 0
+            },
+            {
+              "query": "ipv6 example",
+              "value": 0
+            },
+            {
+              "query": "ap psych aaq example",
+              "value": 0
+            }
+          ],
+          "rising": [
+            {
+              "query": "ap lang synthesis essay example",
+              "value": 750
+            },
+            {
+              "query": "ap lang rhetorical analysis essay example",
+              "value": 650
+            },
+            {
+              "query": "synthesis essay example",
+              "value": 500
+            },
+            {
+              "query": "ap psych aaq example",
+              "value": 300
+            },
+            {
+              "query": "ap psych ebq example",
+              "value": 250
+            },
+            {
+              "query": "define the term register",
+              "value": 250
+            },
+            {
+              "query": "ebq ap psychology example",
+              "value": 250
+            },
+            {
+              "query": "ap lang calculator",
+              "value": 250
+            },
+            {
+              "query": "ap lang score calculator",
+              "value": 200
+            },
+            {
+              "query": "full meaning of ip",
+              "value": 190
+            },
+            {
+              "query": "niyuktha meaning in malayalam with example",
+              "value": 120
+            },
+            {
+              "query": "operational definition example",
+              "value": 60
+            },
+            {
+              "query": "ipv6 example",
+              "value": 50
+            },
+            {
+              "query": "ethos",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Convert",
+          "timestamp": "2026-05-15 01:21:44",
+          "filename": "related_queries_Convert_20260515_012144.json",
+          "top": [
+            {
+              "query": "pdf convert",
+              "value": 100
+            },
+            {
+              "query": "convert to pdf",
+              "value": 91
+            },
+            {
+              "query": "convert to word",
+              "value": 47
+            },
+            {
+              "query": "word convert to pdf",
+              "value": 40
+            },
+            {
+              "query": "convert jpg",
+              "value": 31
+            },
+            {
+              "query": "convert to jpg",
+              "value": 29
+            },
+            {
+              "query": "free convert",
+              "value": 22
+            },
+            {
+              "query": "convert jpg to pdf",
+              "value": 19
+            },
+            {
+              "query": "convert mp3",
+              "value": 18
+            },
+            {
+              "query": "online convert",
+              "value": 17
+            },
+            {
+              "query": "convert to mp3",
+              "value": 14
+            },
+            {
+              "query": "convert youtube",
+              "value": 14
+            },
+            {
+              "query": "convert video",
+              "value": 13
+            },
+            {
+              "query": "convert to pdf free",
+              "value": 10
+            },
+            {
+              "query": "convert mp4",
+              "value": 10
+            },
+            {
+              "query": "pdf to excel",
+              "value": 9
+            },
+            {
+              "query": "convert pdf to excel",
+              "value": 9
+            },
+            {
+              "query": "convert to mp4",
+              "value": 8
+            },
+            {
+              "query": "convert to english",
+              "value": 8
+            },
+            {
+              "query": "youtube convert mp3",
+              "value": 8
+            },
+            {
+              "query": "convert to pdf online",
+              "value": 7
+            },
+            {
+              "query": "convert to png",
+              "value": 7
+            },
+            {
+              "query": "youtube convert to mp3",
+              "value": 6
+            },
+            {
+              "query": "convert into pdf",
+              "value": 5
+            },
+            {
+              "query": "convert to jpeg",
+              "value": 5
+            }
+          ],
+          "rising": []
+        },
+        {
+          "keyword": "Online",
+          "timestamp": "2026-05-15 01:21:44",
+          "filename": "related_queries_Online_20260515_012144.json",
+          "top": [
+            {
+              "query": "casino online",
+              "value": 100
+            },
+            {
+              "query": "online games",
+              "value": 20
+            },
+            {
+              "query": "online game",
+              "value": 17
+            },
+            {
+              "query": "casino 🇩🇪 spielcasino.vip",
+              "value": 12
+            },
+            {
+              "query": "online casino 🇩🇪 spielcasino.vip",
+              "value": 12
+            },
+            {
+              "query": "casino online www.testsiegerportal24.de",
+              "value": 11
+            },
+            {
+              "query": "casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+              "value": 10
+            },
+            {
+              "query": "casino 🇸🇪 2026 www.casinopelle.net",
+              "value": 10
+            },
+            {
+              "query": "online casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+              "value": 10
+            },
+            {
+              "query": "word online",
+              "value": 10
+            },
+            {
+              "query": "radio online",
+              "value": 9
+            },
+            {
+              "query": "online casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 9
+            },
+            {
+              "query": "casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 9
+            },
+            {
+              "query": "whatsapp online",
+              "value": 8
+            },
+            {
+              "query": "tv online",
+              "value": 7
+            },
+            {
+              "query": "free online games",
+              "value": 5
+            },
+            {
+              "query": "casino online 2026 casinogambiba.live",
+              "value": 4
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 4
+            },
+            {
+              "query": "onlinecasinostar.club 🇩🇪 ohne limit",
+              "value": 3
+            },
+            {
+              "query": "casino zonder registratie 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 2
+            },
+            {
+              "query": "casino online ohne limit onlinecasinostar.club 🇩🇪",
+              "value": 2
+            },
+            {
+              "query": "casino ohne limit 🇩🇪 onlinecasinostar.club",
+              "value": 2
+            },
+            {
+              "query": "online casino beste.casino",
+              "value": 2
+            },
+            {
+              "query": "casino ohne oasis 🇩🇪 onlinecasinostar.club",
+              "value": 2
+            },
+            {
+              "query": "dewi11gek.site",
+              "value": 2
+            }
+          ],
+          "rising": [
+            {
+              "query": "online casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 96500
+            },
+            {
+              "query": "casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 91600
+            },
+            {
+              "query": "casino online 2026 casinogambiba.live",
+              "value": 39500
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 39500
+            },
+            {
+              "query": "onlinecasinostar.club 🇩🇪 ohne limit",
+              "value": 27050
+            },
+            {
+              "query": "casino zonder registratie 🇳🇱 2026 www.micgadget.org 🇳🇱",
+              "value": 23650
+            },
+            {
+              "query": "casino online ohne limit onlinecasinostar.club 🇩🇪",
+              "value": 22750
+            },
+            {
+              "query": "casino ohne limit 🇩🇪 onlinecasinostar.club",
+              "value": 21750
+            },
+            {
+              "query": "online casino beste.casino",
+              "value": 21650
+            },
+            {
+              "query": "casino ohne oasis 🇩🇪 onlinecasinostar.club",
+              "value": 16650
+            },
+            {
+              "query": "dewi11gek.site",
+              "value": 16150
+            },
+            {
+              "query": "casino online ohne oasis onlinecasinostar.club 🇩🇪",
+              "value": 16050
+            },
+            {
+              "query": "casino online ohne lugas onlinecasinostar.club 🇩🇪",
+              "value": 16000
+            },
+            {
+              "query": "casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+              "value": 2100
+            },
+            {
+              "query": "online casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+              "value": 2050
+            },
+            {
+              "query": "casino 🇸🇪 2026 www.casinopelle.net",
+              "value": 2000
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Downloader",
+        "Maker",
+        "Creator",
+        "Editor",
+        "Processor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 5
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [
+        {
+          "keyword": "Analyzer",
+          "timestamp": "2026-05-15 01:28:27",
+          "filename": "related_queries_Analyzer_20260515_012827.json",
+          "top": [
+            {
+              "query": "website analyzer",
+              "value": 100
+            },
+            {
+              "query": "the analyzer",
+              "value": 66
+            },
+            {
+              "query": "website analyzer free",
+              "value": 34
+            },
+            {
+              "query": "ai analyzer",
+              "value": 31
+            },
+            {
+              "query": "spectrum analyzer",
+              "value": 28
+            },
+            {
+              "query": "trade analyzer",
+              "value": 28
+            },
+            {
+              "query": "power analyzer",
+              "value": 20
+            },
+            {
+              "query": "gas analyzer",
+              "value": 19
+            },
+            {
+              "query": "network analyzer",
+              "value": 18
+            },
+            {
+              "query": "wifi analyzer",
+              "value": 17
+            },
+            {
+              "query": "seo analyzer",
+              "value": 17
+            },
+            {
+              "query": "me analyzer",
+              "value": 16
+            },
+            {
+              "query": "fantasy trade analyzer",
+              "value": 15
+            },
+            {
+              "query": "log analyzer",
+              "value": 14
+            },
+            {
+              "query": "hematology analyzer",
+              "value": 12
+            },
+            {
+              "query": "skin analyzer",
+              "value": 12
+            },
+            {
+              "query": "web analyzer",
+              "value": 11
+            },
+            {
+              "query": "logic analyzer",
+              "value": 11
+            },
+            {
+              "query": "trade analyzer baseball",
+              "value": 10
+            },
+            {
+              "query": "face analyzer",
+              "value": 9
+            },
+            {
+              "query": "chemistry analyzer",
+              "value": 9
+            },
+            {
+              "query": "audio analyzer",
+              "value": 9
+            },
+            {
+              "query": "body composition analyzer",
+              "value": 9
+            },
+            {
+              "query": "fantasy trade analyzer baseball",
+              "value": 9
+            },
+            {
+              "query": "moisture analyzer",
+              "value": 9
+            }
+          ],
+          "rising": [
+            {
+              "query": "cbse result analyzer",
+              "value": 500
+            },
+            {
+              "query": "kddi location analyzer",
+              "value": 140
+            },
+            {
+              "query": "microsoft baseline security analyzer",
+              "value": 110
+            },
+            {
+              "query": "hemostasis analyzer",
+              "value": 100
+            },
+            {
+              "query": "oligo analyzer",
+              "value": 100
+            },
+            {
+              "query": "finra fund analyzer",
+              "value": 100
+            },
+            {
+              "query": "mxtoolbox",
+              "value": 90
+            },
+            {
+              "query": "urine analyzer machine",
+              "value": 90
+            },
+            {
+              "query": "thread dump analyzer",
+              "value": 80
+            },
+            {
+              "query": "message header analyzer",
+              "value": 80
+            },
+            {
+              "query": "panic full analyzer",
+              "value": 80
+            },
+            {
+              "query": "har analyzer",
+              "value": 70
+            },
+            {
+              "query": "urinalysis analyzer",
+              "value": 60
+            },
+            {
+              "query": "header analyzer",
+              "value": 60
+            },
+            {
+              "query": "email header analyzer",
+              "value": 60
+            },
+            {
+              "query": "forti analyzer",
+              "value": 60
+            },
+            {
+              "query": "mxtoolbox header analyzer",
+              "value": 60
+            },
+            {
+              "query": "minidump analyzer",
+              "value": 60
+            },
+            {
+              "query": "analyser or analyzer",
+              "value": 60
+            },
+            {
+              "query": "log file analyzer",
+              "value": 50
+            },
+            {
+              "query": "iam access analyzer",
+              "value": 50
+            },
+            {
+              "query": "elemental analyzer",
+              "value": 50
+            },
+            {
+              "query": "microsoft remote connectivity analyzer",
+              "value": 50
+            },
+            {
+              "query": "fortinet analyzer",
+              "value": 50
+            },
+            {
+              "query": "blood gas analyzer",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Evaluator",
+          "timestamp": "2026-05-15 01:28:27",
+          "filename": "related_queries_Evaluator_20260515_012827.json",
+          "top": [
+            {
+              "query": "evaluator meaning",
+              "value": 100
+            },
+            {
+              "query": "home evaluator",
+              "value": 81
+            },
+            {
+              "query": "search engine evaluator",
+              "value": 80
+            },
+            {
+              "query": "program evaluator",
+              "value": 80
+            },
+            {
+              "query": "property evaluator",
+              "value": 69
+            },
+            {
+              "query": "car evaluator",
+              "value": 64
+            },
+            {
+              "query": "csp evaluator",
+              "value": 50
+            },
+            {
+              "query": "house evaluator",
+              "value": 38
+            },
+            {
+              "query": "student evaluator",
+              "value": 38
+            },
+            {
+              "query": "social media evaluator",
+              "value": 35
+            },
+            {
+              "query": "search quality evaluator guidelines",
+              "value": 35
+            },
+            {
+              "query": "search engine evaluator jobs",
+              "value": 32
+            },
+            {
+              "query": "migration evaluator",
+              "value": 32
+            },
+            {
+              "query": "domain evaluator",
+              "value": 30
+            },
+            {
+              "query": "remote online evaluator",
+              "value": 28
+            },
+            {
+              "query": "anevar",
+              "value": 25
+            },
+            {
+              "query": "evaluator anevar",
+              "value": 23
+            },
+            {
+              "query": "resume evaluator",
+              "value": 23
+            },
+            {
+              "query": "toastmasters general evaluator",
+              "value": 23
+            },
+            {
+              "query": "appen",
+              "value": 22
+            },
+            {
+              "query": "aws migration evaluator",
+              "value": 21
+            },
+            {
+              "query": "fantasy trade evaluator",
+              "value": 21
+            },
+            {
+              "query": "evaluator imobiliar",
+              "value": 18
+            },
+            {
+              "query": "charity evaluator",
+              "value": 16
+            },
+            {
+              "query": "cron expression evaluator",
+              "value": 16
+            }
+          ],
+          "rising": [
+            {
+              "query": "remotasks",
+              "value": 450
+            },
+            {
+              "query": "toastmasters general evaluator",
+              "value": 250
+            },
+            {
+              "query": "evaluator synonym",
+              "value": 200
+            },
+            {
+              "query": "charity evaluator",
+              "value": 160
+            },
+            {
+              "query": "general evaluator script",
+              "value": 120
+            },
+            {
+              "query": "anevar",
+              "value": 100
+            },
+            {
+              "query": "aws migration evaluator",
+              "value": 80
+            },
+            {
+              "query": "cron expression evaluator",
+              "value": 80
+            },
+            {
+              "query": "trade evaluator fantasy baseball",
+              "value": 80
+            },
+            {
+              "query": "nurse aide evaluator",
+              "value": 70
+            },
+            {
+              "query": "wikipedia",
+              "value": 70
+            },
+            {
+              "query": "welocalize",
+              "value": 70
+            },
+            {
+              "query": "evaluator anevar",
+              "value": 70
+            },
+            {
+              "query": "evaluator meaning in hindi",
+              "value": 70
+            },
+            {
+              "query": "csp evaluator",
+              "value": 60
+            },
+            {
+              "query": "migration evaluator",
+              "value": 60
+            },
+            {
+              "query": "property evaluator near me",
+              "value": 60
+            },
+            {
+              "query": "socmed evaluator",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Sender",
+          "timestamp": "2026-05-15 01:28:27",
+          "filename": "related_queries_Sender_20260515_012827.json",
+          "top": [
+            {
+              "query": "email sender",
+              "value": 100
+            },
+            {
+              "query": "tv sender",
+              "value": 82
+            },
+            {
+              "query": "return to sender",
+              "value": 65
+            },
+            {
+              "query": "message sender",
+              "value": 52
+            },
+            {
+              "query": "sender address",
+              "value": 40
+            },
+            {
+              "query": "sender whatsapp",
+              "value": 38
+            },
+            {
+              "query": "sender one",
+              "value": 37
+            },
+            {
+              "query": "fernsehprogramm",
+              "value": 36
+            },
+            {
+              "query": "fernsehprogramm alle sender",
+              "value": 34
+            },
+            {
+              "query": "fuel sender",
+              "value": 33
+            },
+            {
+              "query": "sender app",
+              "value": 25
+            },
+            {
+              "query": "bulk sender",
+              "value": 24
+            },
+            {
+              "query": "radio sender",
+              "value": 23
+            },
+            {
+              "query": "fernsehprogramm heute",
+              "value": 22
+            },
+            {
+              "query": "fernsehprogramm heute alle sender",
+              "value": 22
+            },
+            {
+              "query": "back to sender",
+              "value": 20
+            },
+            {
+              "query": "esc sender",
+              "value": 18
+            },
+            {
+              "query": "esc",
+              "value": 18
+            },
+            {
+              "query": "fernsehprogramm heute 20.15 alle sender",
+              "value": 17
+            },
+            {
+              "query": "sms sender",
+              "value": 16
+            },
+            {
+              "query": "fernsehprogramm heute abend",
+              "value": 16
+            },
+            {
+              "query": "fernsehprogramm heute abend alle sender",
+              "value": 16
+            },
+            {
+              "query": "sender pro",
+              "value": 15
+            },
+            {
+              "query": "ard sender",
+              "value": 15
+            },
+            {
+              "query": "wa sender",
+              "value": 14
+            }
+          ],
+          "rising": [
+            {
+              "query": "hvem sender pokalfinalen i fodbold 2026",
+              "value": 10400
+            },
+            {
+              "query": "hvem sender pokalfinalen i dag",
+              "value": 4100
+            },
+            {
+              "query": "hvem sender pokalfinalen",
+              "value": 2350
+            },
+            {
+              "query": "pokalfinale 2026 tv",
+              "value": 2100
+            },
+            {
+              "query": "hvem sender pokalfinalen 2026",
+              "value": 1750
+            },
+            {
+              "query": "hvem sender pokalfinalen i fodbold",
+              "value": 1600
+            },
+            {
+              "query": "fenerbahce feyenoord welcher sender",
+              "value": 1550
+            },
+            {
+              "query": "pokalfinale 2026",
+              "value": 1050
+            },
+            {
+              "query": "esc halbfinale 2026",
+              "value": 600
+            },
+            {
+              "query": "eurovision welcher sender",
+              "value": 400
+            },
+            {
+              "query": "esc",
+              "value": 350
+            },
+            {
+              "query": "esc sender",
+              "value": 350
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 3
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Generator",
+      "query": "franci",
+      "value": 1600
+    },
+    {
+      "keyword": "Generator",
+      "query": "rando",
+      "value": 1300
+    },
+    {
+      "keyword": "Generator",
+      "query": "digital circus name generator",
+      "value": 1300
+    },
+    {
+      "keyword": "Generator",
+      "query": "wonk",
+      "value": 1250
+    },
+    {
+      "keyword": "Example",
+      "query": "ap lang synthesis essay example",
+      "value": 750
+    },
+    {
+      "keyword": "Example",
+      "query": "ap lang rhetorical analysis essay example",
+      "value": 650
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+      "value": 96500
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇳🇱 2026 www.micgadget.org 🇳🇱",
+      "value": 91600
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online 2026 casinogambiba.live",
+      "value": 39500
+    },
+    {
+      "keyword": "Online",
+      "query": "casino zonder cruks 🇳🇱 2026 www.micgadget.org 🇳🇱",
+      "value": 39500
+    },
+    {
+      "keyword": "Online",
+      "query": "onlinecasinostar.club 🇩🇪 ohne limit",
+      "value": 27050
+    },
+    {
+      "keyword": "Online",
+      "query": "casino zonder registratie 🇳🇱 2026 www.micgadget.org 🇳🇱",
+      "value": 23650
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online ohne limit onlinecasinostar.club 🇩🇪",
+      "value": 22750
+    },
+    {
+      "keyword": "Online",
+      "query": "casino ohne limit 🇩🇪 onlinecasinostar.club",
+      "value": 21750
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino beste.casino",
+      "value": 21650
+    },
+    {
+      "keyword": "Online",
+      "query": "casino ohne oasis 🇩🇪 onlinecasinostar.club",
+      "value": 16650
+    },
+    {
+      "keyword": "Online",
+      "query": "dewi11gek.site",
+      "value": 16150
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online ohne oasis onlinecasinostar.club 🇩🇪",
+      "value": 16050
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online ohne lugas onlinecasinostar.club 🇩🇪",
+      "value": 16000
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+      "value": 2100
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇸🇪 2026 www.casinopelle.net 🇸🇪",
+      "value": 2050
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇸🇪 2026 www.casinopelle.net",
+      "value": 2000
+    },
+    {
+      "keyword": "Sender",
+      "query": "hvem sender pokalfinalen i fodbold 2026",
+      "value": 10400
+    },
+    {
+      "keyword": "Sender",
+      "query": "hvem sender pokalfinalen i dag",
+      "value": 4100
+    },
+    {
+      "keyword": "Sender",
+      "query": "hvem sender pokalfinalen",
+      "value": 2350
+    },
+    {
+      "keyword": "Sender",
+      "query": "pokalfinale 2026 tv",
+      "value": 2100
+    },
+    {
+      "keyword": "Sender",
+      "query": "hvem sender pokalfinalen 2026",
+      "value": 1750
+    },
+    {
+      "keyword": "Sender",
+      "query": "hvem sender pokalfinalen i fodbold",
+      "value": 1600
+    },
+    {
+      "keyword": "Sender",
+      "query": "fenerbahce feyenoord welcher sender",
+      "value": 1550
+    },
+    {
+      "keyword": "Sender",
+      "query": "pokalfinale 2026",
+      "value": 1050
+    },
+    {
+      "keyword": "Sender",
+      "query": "esc halbfinale 2026",
+      "value": 600
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 8,
+    "failed_keywords": 43,
+    "high_rising_count": 31
+  },
+  "files": {
+    "csv": "data/20260515/daily_report_20260515.csv",
+    "json": "data/20260515/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20260515/daily_report_20260515.csv",
+      "data/20260515/related_queries_Analyzer_20260515_012827.json",
+      "data/20260515/related_queries_Convert_20260515_012144.json",
+      "data/20260515/related_queries_Evaluator_20260515_012827.json",
+      "data/20260515/related_queries_Example_20260515_012144.json",
+      "data/20260515/related_queries_Generator_20260515_012144.json",
+      "data/20260515/related_queries_Online_20260515_012144.json",
+      "data/20260515/related_queries_Sender_20260515_012827.json",
+      "data/20260515/related_queries_Translator_20260515_012144.json"
+    ]
+  }
+}
