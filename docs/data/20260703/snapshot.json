@@ -1,0 +1,3004 @@
+{
+  "date": "20260703",
+  "generated_at": "2026-07-03 01:28:40",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-06-30 2026-07-03",
+  "region": "Global",
+  "source_directory": "data_20260703",
+  "snapshots": [
+    {
+      "keyword": "Translator",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Translator_20260703_010722.json",
+      "top": [
+        {
+          "query": "translator english",
+          "value": 100
+        },
+        {
+          "query": "translator english to",
+          "value": 79
+        },
+        {
+          "query": "translator google",
+          "value": 68
+        },
+        {
+          "query": "tagalog translator",
+          "value": 27
+        },
+        {
+          "query": "english tagalog translator",
+          "value": 25
+        },
+        {
+          "query": "language translator",
+          "value": 22
+        },
+        {
+          "query": "tagalog to english translator",
+          "value": 22
+        },
+        {
+          "query": "english to tagalog",
+          "value": 21
+        },
+        {
+          "query": "tagalog to english",
+          "value": 21
+        },
+        {
+          "query": "spanish",
+          "value": 16
+        },
+        {
+          "query": "spanish translator",
+          "value": 16
+        },
+        {
+          "query": "deepl translator",
+          "value": 14
+        },
+        {
+          "query": "hindi translator",
+          "value": 14
+        },
+        {
+          "query": "best translator",
+          "value": 12
+        },
+        {
+          "query": "translator online",
+          "value": 12
+        },
+        {
+          "query": "hindi english translator",
+          "value": 12
+        },
+        {
+          "query": "hindi to english translator",
+          "value": 11
+        },
+        {
+          "query": "ai translator",
+          "value": 10
+        },
+        {
+          "query": "translator app",
+          "value": 10
+        },
+        {
+          "query": "english spanish translator",
+          "value": 9
+        },
+        {
+          "query": "pdf translator",
+          "value": 9
+        },
+        {
+          "query": "morse code translator",
+          "value": 8
+        },
+        {
+          "query": "morse translator",
+          "value": 8
+        },
+        {
+          "query": "morse code",
+          "value": 8
+        },
+        {
+          "query": "spanish to english translator",
+          "value": 8
+        }
+      ],
+      "rising": [
+        {
+          "query": "enence übersetzer",
+          "value": 3450
+        },
+        {
+          "query": "traducteur vocal",
+          "value": 3300
+        },
+        {
+          "query": "smart tag",
+          "value": 2000
+        },
+        {
+          "query": "enence",
+          "value": 140
+        },
+        {
+          "query": "enence translator",
+          "value": 130
+        },
+        {
+          "query": "minionese translator",
+          "value": 90
+        },
+        {
+          "query": "minion translator",
+          "value": 70
+        },
+        {
+          "query": "deeple translator",
+          "value": 60
+        },
+        {
+          "query": "minion language translator",
+          "value": 60
+        },
+        {
+          "query": "translator hiszpańsko polski",
+          "value": 60
+        },
+        {
+          "query": "english to kannada translator",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Online",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Online_20260703_010722.json",
+      "top": [
+        {
+          "query": "online casino",
+          "value": 100
+        },
+        {
+          "query": "online casinos",
+          "value": 36
+        },
+        {
+          "query": "games online",
+          "value": 24
+        },
+        {
+          "query": "game online",
+          "value": 21
+        },
+        {
+          "query": "online casinos 🇩🇪 deutschecasino.ink",
+          "value": 16
+        },
+        {
+          "query": "casinos 🇩🇪 deutschecasino.ink",
+          "value": 16
+        },
+        {
+          "query": "online casino ohne limit deutschecasino.ink 🇩🇪",
+          "value": 14
+        },
+        {
+          "query": "online casino boni deutschecasino.ink 🇩🇪",
+          "value": 11
+        },
+        {
+          "query": "tv online",
+          "value": 11
+        },
+        {
+          "query": "word online",
+          "value": 11
+        },
+        {
+          "query": "casino boni 🇩🇪 deutschecasino.ink",
+          "value": 11
+        },
+        {
+          "query": "radio online",
+          "value": 10
+        },
+        {
+          "query": "whatsapp online",
+          "value": 10
+        },
+        {
+          "query": "casino 🇦🇺 casinoclaude.vip",
+          "value": 10
+        },
+        {
+          "query": "online casino casinoclaude.vip 🇦🇺",
+          "value": 10
+        },
+        {
+          "query": "online casinos 🇦🇹 deutschecasino.ink 🇦🇹",
+          "value": 8
+        },
+        {
+          "query": "sbi online",
+          "value": 8
+        },
+        {
+          "query": "online casino ohne lugas 🇩🇪 deutschecasino.ink",
+          "value": 8
+        },
+        {
+          "query": "casino online österreich 🇦🇹 deutschecasino.ink 🇦🇹",
+          "value": 7
+        },
+        {
+          "query": "online games free",
+          "value": 7
+        },
+        {
+          "query": "online calculator",
+          "value": 6
+        },
+        {
+          "query": "mail online",
+          "value": 6
+        },
+        {
+          "query": "beste online casinos",
+          "value": 6
+        },
+        {
+          "query": "chatgpt online",
+          "value": 6
+        },
+        {
+          "query": "excel online",
+          "value": 6
+        }
+      ],
+      "rising": [
+        {
+          "query": "casino ohne limit 🇩🇪 www.deutschecasino.ink 🇩🇪",
+          "value": 43550
+        },
+        {
+          "query": "online casino www.auszahlungsquote9697.com",
+          "value": 27150
+        },
+        {
+          "query": "casino utan svensk licens 🇸🇪 juli jannecasinos.online 🇸🇪",
+          "value": 18200
+        },
+        {
+          "query": "online casino ohne lizenz 🎲 deutschecasino.blog",
+          "value": 12850
+        },
+        {
+          "query": "beste online casinos www.testreport24.de",
+          "value": 11600
+        },
+        {
+          "query": "casino online bonus 🎲 deutschecasino.blog",
+          "value": 10750
+        },
+        {
+          "query": "online casino ohne 1000 limit www.testreport24.de",
+          "value": 10000
+        },
+        {
+          "query": "slothoke980.live",
+          "value": 9900
+        },
+        {
+          "query": "casino 🇸🇪 www.jontecasinos.org",
+          "value": 8150
+        },
+        {
+          "query": "online casino deutschland www.auszahlungsquote9697.com",
+          "value": 7800
+        },
+        {
+          "query": "betting utan licens 🇸🇪 www.jontecasinos.org",
+          "value": 6650
+        },
+        {
+          "query": "casino online österreich 🇦🇹 deutschecasino.ink 🇦🇹",
+          "value": 400
+        },
+        {
+          "query": "online casinos 🇦🇹 deutschecasino.ink 🇦🇹",
+          "value": 300
+        },
+        {
+          "query": "casino 🇦🇺 casinoclaude.vip",
+          "value": 90
+        },
+        {
+          "query": "online casino casinoclaude.vip 🇦🇺",
+          "value": 90
+        },
+        {
+          "query": "online casinos 🇩🇪 deutschecasino.ink",
+          "value": 50
+        },
+        {
+          "query": "casinos 🇩🇪 deutschecasino.ink",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Downloader",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Downloader_20260703_010722.json",
+      "top": [
+        {
+          "query": "downloader video",
+          "value": 100
+        },
+        {
+          "query": "downloader instagram",
+          "value": 32
+        },
+        {
+          "query": "tiktok downloader",
+          "value": 30
+        },
+        {
+          "query": "youtube video downloader",
+          "value": 19
+        },
+        {
+          "query": "download",
+          "value": 18
+        },
+        {
+          "query": "facebook downloader",
+          "value": 17
+        },
+        {
+          "query": "tiktok video downloader",
+          "value": 15
+        },
+        {
+          "query": "instagram video downloader",
+          "value": 12
+        },
+        {
+          "query": "pinterest downloader",
+          "value": 12
+        },
+        {
+          "query": "facebook video downloader",
+          "value": 12
+        },
+        {
+          "query": "pinterest video downloader",
+          "value": 8
+        },
+        {
+          "query": "download video",
+          "value": 8
+        },
+        {
+          "query": "twitter downloader",
+          "value": 7
+        },
+        {
+          "query": "music downloader",
+          "value": 7
+        },
+        {
+          "query": "yt downloader",
+          "value": 7
+        },
+        {
+          "query": "app downloader",
+          "value": 7
+        },
+        {
+          "query": "twitter video downloader",
+          "value": 5
+        },
+        {
+          "query": "youtube download",
+          "value": 5
+        },
+        {
+          "query": "reel downloader",
+          "value": 5
+        },
+        {
+          "query": "video downloader online",
+          "value": 5
+        },
+        {
+          "query": "fb downloader",
+          "value": 4
+        },
+        {
+          "query": "free video downloader",
+          "value": 4
+        },
+        {
+          "query": "scribd",
+          "value": 3
+        },
+        {
+          "query": "slideshare downloader",
+          "value": 2
+        },
+        {
+          "query": "image downloader",
+          "value": 2
+        }
+      ],
+      "rising": [
+        {
+          "query": "instagram video downloader link without watermark",
+          "value": 1100
+        },
+        {
+          "query": "slideshare free downloader",
+          "value": 80
+        },
+        {
+          "query": "slideshare ppt downloader",
+          "value": 60
+        },
+        {
+          "query": "slideshare downloader",
+          "value": 50
+        },
+        {
+          "query": "instagram link downloader",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Maker",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Maker_20260703_010722.json",
+      "top": [
+        {
+          "query": "ice maker",
+          "value": 100
+        },
+        {
+          "query": "coffee maker",
+          "value": 75
+        },
+        {
+          "query": "pdf maker",
+          "value": 35
+        },
+        {
+          "query": "video maker",
+          "value": 31
+        },
+        {
+          "query": "maker world",
+          "value": 27
+        },
+        {
+          "query": "ice cream maker",
+          "value": 27
+        },
+        {
+          "query": "app maker",
+          "value": 22
+        },
+        {
+          "query": "logo maker",
+          "value": 21
+        },
+        {
+          "query": "logo",
+          "value": 21
+        },
+        {
+          "query": "cv",
+          "value": 15
+        },
+        {
+          "query": "cv maker",
+          "value": 15
+        },
+        {
+          "query": "game maker",
+          "value": 15
+        },
+        {
+          "query": "gif",
+          "value": 14
+        },
+        {
+          "query": "home maker",
+          "value": 13
+        },
+        {
+          "query": "gif maker",
+          "value": 13
+        },
+        {
+          "query": "waffle maker",
+          "value": 13
+        },
+        {
+          "query": "resume maker",
+          "value": 12
+        },
+        {
+          "query": "rpg maker",
+          "value": 12
+        },
+        {
+          "query": "resume",
+          "value": 12
+        },
+        {
+          "query": "label maker",
+          "value": 11
+        },
+        {
+          "query": "pdf maker free",
+          "value": 11
+        },
+        {
+          "query": "website maker",
+          "value": 11
+        },
+        {
+          "query": "music maker",
+          "value": 11
+        },
+        {
+          "query": "bread maker",
+          "value": 10
+        },
+        {
+          "query": "song maker",
+          "value": 10
+        }
+      ],
+      "rising": [
+        {
+          "query": "instagram video download without water maker",
+          "value": 100
+        },
+        {
+          "query": "vltd maker",
+          "value": 90
+        },
+        {
+          "query": "how to clean a waffle maker",
+          "value": 70
+        },
+        {
+          "query": "aj model maker",
+          "value": 60
+        },
+        {
+          "query": "invoice maker",
+          "value": 50
+        },
+        {
+          "query": "passport size photo",
+          "value": 50
+        },
+        {
+          "query": "esignature maker",
+          "value": 40
+        },
+        {
+          "query": "how to descale coffee maker",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Creator",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Creator_20260703_010722.json",
+      "top": [
+        {
+          "query": "the creator",
+          "value": 100
+        },
+        {
+          "query": "content creator",
+          "value": 50
+        },
+        {
+          "query": "ai creator",
+          "value": 37
+        },
+        {
+          "query": "tiktok creator",
+          "value": 25
+        },
+        {
+          "query": "youtube creator",
+          "value": 24
+        },
+        {
+          "query": "tyler the creator",
+          "value": 24
+        },
+        {
+          "query": "video creator",
+          "value": 20
+        },
+        {
+          "query": "pdf creator",
+          "value": 20
+        },
+        {
+          "query": "image creator",
+          "value": 16
+        },
+        {
+          "query": "roblox creator",
+          "value": 15
+        },
+        {
+          "query": "creator studio",
+          "value": 15
+        },
+        {
+          "query": "app creator",
+          "value": 14
+        },
+        {
+          "query": "digital creator",
+          "value": 11
+        },
+        {
+          "query": "character creator",
+          "value": 9
+        },
+        {
+          "query": "ugc creator",
+          "value": 9
+        },
+        {
+          "query": "lego creator",
+          "value": 8
+        },
+        {
+          "query": "ugc",
+          "value": 8
+        },
+        {
+          "query": "book creator",
+          "value": 8
+        },
+        {
+          "query": "creator economy",
+          "value": 8
+        },
+        {
+          "query": "website creator",
+          "value": 8
+        },
+        {
+          "query": "apple creator",
+          "value": 8
+        },
+        {
+          "query": "creator hub",
+          "value": 8
+        },
+        {
+          "query": "pdf24",
+          "value": 4
+        },
+        {
+          "query": "zoho creator",
+          "value": 4
+        },
+        {
+          "query": "pdf24 creator",
+          "value": 4
+        }
+      ],
+      "rising": [
+        {
+          "query": "your bank account may need updating to receive creator earnings",
+          "value": 12350
+        },
+        {
+          "query": "dragon age creator ai critique",
+          "value": 6600
+        },
+        {
+          "query": "your bank account may need updating to receive creator earnings artinya",
+          "value": 4650
+        },
+        {
+          "query": "lego 31394 creator red panda",
+          "value": 2600
+        },
+        {
+          "query": "creator of insecure hbo",
+          "value": 1250
+        },
+        {
+          "query": "was ist ein content creator",
+          "value": 200
+        },
+        {
+          "query": "creator micro 2",
+          "value": 180
+        },
+        {
+          "query": "ak creator yt",
+          "value": 160
+        },
+        {
+          "query": "ubisoft creator program",
+          "value": 100
+        },
+        {
+          "query": "lego creator red dragon",
+          "value": 90
+        },
+        {
+          "query": "brawl stars creator",
+          "value": 90
+        },
+        {
+          "query": "supercell creator",
+          "value": 60
+        },
+        {
+          "query": "zoho creator login",
+          "value": 50
+        },
+        {
+          "query": "kill it style creator war",
+          "value": 50
+        },
+        {
+          "query": "zoho creator",
+          "value": 50
+        },
+        {
+          "query": "pdf24",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Editor",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Editor_20260703_010722.json",
+      "top": [
+        {
+          "query": "pdf editor",
+          "value": 100
+        },
+        {
+          "query": "pdf",
+          "value": 91
+        },
+        {
+          "query": "online editor",
+          "value": 48
+        },
+        {
+          "query": "video editor",
+          "value": 41
+        },
+        {
+          "query": "ai editor",
+          "value": 38
+        },
+        {
+          "query": "photo editor",
+          "value": 34
+        },
+        {
+          "query": "pdf online editor",
+          "value": 25
+        },
+        {
+          "query": "free pdf editor",
+          "value": 19
+        },
+        {
+          "query": "ai photo editor",
+          "value": 15
+        },
+        {
+          "query": "ai photo",
+          "value": 15
+        },
+        {
+          "query": "image editor",
+          "value": 14
+        },
+        {
+          "query": "pdf to editor",
+          "value": 14
+        },
+        {
+          "query": "text editor",
+          "value": 11
+        },
+        {
+          "query": "sejda editor",
+          "value": 10
+        },
+        {
+          "query": "sejda",
+          "value": 10
+        },
+        {
+          "query": "pdf editor sejda",
+          "value": 10
+        },
+        {
+          "query": "sejda pdf",
+          "value": 10
+        },
+        {
+          "query": "code editor",
+          "value": 9
+        },
+        {
+          "query": "pdf editor free online",
+          "value": 9
+        },
+        {
+          "query": "video editor free",
+          "value": 8
+        },
+        {
+          "query": "save editor",
+          "value": 8
+        },
+        {
+          "query": "word editor",
+          "value": 7
+        },
+        {
+          "query": "photo editor free",
+          "value": 7
+        },
+        {
+          "query": "ai video editor",
+          "value": 7
+        },
+        {
+          "query": "file editor",
+          "value": 6
+        }
+      ],
+      "rising": [
+        {
+          "query": "live editor fc 26",
+          "value": 80
+        },
+        {
+          "query": "swagger editor",
+          "value": 60
+        },
+        {
+          "query": "json editor online",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Processor",
+      "timestamp": "2026-07-03 01:07:22",
+      "filename": "related_queries_Processor_20260703_010722.json",
+      "top": [
+        {
+          "query": "processor food",
+          "value": 100
+        },
+        {
+          "query": "intel processor",
+          "value": 70
+        },
+        {
+          "query": "intel",
+          "value": 69
+        },
+        {
+          "query": "best processor",
+          "value": 60
+        },
+        {
+          "query": "amd processor",
+          "value": 48
+        },
+        {
+          "query": "amd",
+          "value": 47
+        },
+        {
+          "query": "ryzen processor",
+          "value": 44
+        },
+        {
+          "query": "laptop processor",
+          "value": 39
+        },
+        {
+          "query": "laptop",
+          "value": 39
+        },
+        {
+          "query": "what is processor",
+          "value": 36
+        },
+        {
+          "query": "snapdragon processor",
+          "value": 27
+        },
+        {
+          "query": "ram",
+          "value": 27
+        },
+        {
+          "query": "snapdragon",
+          "value": 27
+        },
+        {
+          "query": "cpu processor",
+          "value": 23
+        },
+        {
+          "query": "i5 processor",
+          "value": 23
+        },
+        {
+          "query": "cpu",
+          "value": 23
+        },
+        {
+          "query": "pc",
+          "value": 19
+        },
+        {
+          "query": "pc processor",
+          "value": 18
+        },
+        {
+          "query": "i7 processor",
+          "value": 18
+        },
+        {
+          "query": "mobile processor",
+          "value": 17
+        },
+        {
+          "query": "data processor",
+          "value": 16
+        },
+        {
+          "query": "payment processor",
+          "value": 16
+        },
+        {
+          "query": "hp",
+          "value": 15
+        },
+        {
+          "query": "latest processor",
+          "value": 14
+        },
+        {
+          "query": "what is a processor",
+          "value": 13
+        }
+      ],
+      "rising": [
+        {
+          "query": "amd epyc 9965 processor 2.25 ghz 384 mb l3 tray",
+          "value": 3950
+        },
+        {
+          "query": "samsung galaxy a18 processor strategy",
+          "value": 1450
+        },
+        {
+          "query": "one plus n6",
+          "value": 180
+        },
+        {
+          "query": "one plus n6 processor",
+          "value": 170
+        },
+        {
+          "query": "oneplus n6",
+          "value": 160
+        },
+        {
+          "query": "oneplus n6 processor",
+          "value": 150
+        },
+        {
+          "query": "samsung m47",
+          "value": 130
+        },
+        {
+          "query": "samsung m47 processor",
+          "value": 130
+        },
+        {
+          "query": "realme gt 7t",
+          "value": 120
+        },
+        {
+          "query": "m47 processor",
+          "value": 110
+        },
+        {
+          "query": "one plus 6 processor",
+          "value": 100
+        },
+        {
+          "query": "one plus",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Designer",
+      "timestamp": "2026-07-03 01:15:26",
+      "filename": "related_queries_Designer_20260703_011526.json",
+      "top": [
+        {
+          "query": "graphic designer",
+          "value": 100
+        },
+        {
+          "query": "design",
+          "value": 90
+        },
+        {
+          "query": "designer sale",
+          "value": 85
+        },
+        {
+          "query": "interior designer",
+          "value": 84
+        },
+        {
+          "query": "designer bag",
+          "value": 83
+        },
+        {
+          "query": "fashion designer",
+          "value": 79
+        },
+        {
+          "query": "designer outlet",
+          "value": 58
+        },
+        {
+          "query": "designer bags",
+          "value": 58
+        },
+        {
+          "query": "designer shoes",
+          "value": 56
+        },
+        {
+          "query": "shoes",
+          "value": 56
+        },
+        {
+          "query": "website designer",
+          "value": 54
+        },
+        {
+          "query": "ai designer",
+          "value": 51
+        },
+        {
+          "query": "game designer",
+          "value": 47
+        },
+        {
+          "query": "home designer",
+          "value": 44
+        },
+        {
+          "query": "web designer",
+          "value": 43
+        },
+        {
+          "query": "ux designer",
+          "value": 43
+        },
+        {
+          "query": "product designer",
+          "value": 43
+        },
+        {
+          "query": "designer dress",
+          "value": 39
+        },
+        {
+          "query": "designer shirt",
+          "value": 38
+        },
+        {
+          "query": "brand designer",
+          "value": 34
+        },
+        {
+          "query": "affinity designer",
+          "value": 30
+        },
+        {
+          "query": "designer clothes",
+          "value": 30
+        },
+        {
+          "query": "affinity",
+          "value": 29
+        },
+        {
+          "query": "house designer",
+          "value": 28
+        },
+        {
+          "query": "designer clothing",
+          "value": 27
+        }
+      ],
+      "rising": [
+        {
+          "query": "korean designer shoes 2026 trends",
+          "value": 650
+        },
+        {
+          "query": "used designer handbags",
+          "value": 80
+        },
+        {
+          "query": "axis site designer",
+          "value": 80
+        },
+        {
+          "query": "zebra designer 3",
+          "value": 70
+        },
+        {
+          "query": "solaredge designer",
+          "value": 60
+        },
+        {
+          "query": "zebra designer",
+          "value": 40
+        },
+        {
+          "query": "website designer near me",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Compiler",
+      "timestamp": "2026-07-03 01:15:26",
+      "filename": "related_queries_Compiler_20260703_011526.json",
+      "top": [
+        {
+          "query": "compiler online",
+          "value": 100
+        },
+        {
+          "query": "online",
+          "value": 95
+        },
+        {
+          "query": "python",
+          "value": 43
+        },
+        {
+          "query": "python compiler",
+          "value": 43
+        },
+        {
+          "query": "online python compiler",
+          "value": 30
+        },
+        {
+          "query": "python online",
+          "value": 29
+        },
+        {
+          "query": "java compiler",
+          "value": 28
+        },
+        {
+          "query": "compiler java",
+          "value": 27
+        },
+        {
+          "query": "java",
+          "value": 26
+        },
+        {
+          "query": "java online compiler",
+          "value": 20
+        },
+        {
+          "query": "c++",
+          "value": 17
+        },
+        {
+          "query": "c++ compiler",
+          "value": 17
+        },
+        {
+          "query": "c online compiler",
+          "value": 16
+        },
+        {
+          "query": "online c++ compiler",
+          "value": 9
+        },
+        {
+          "query": "code compiler",
+          "value": 8
+        },
+        {
+          "query": "html",
+          "value": 7
+        },
+        {
+          "query": "compiler html",
+          "value": 7
+        },
+        {
+          "query": "what is compiler",
+          "value": 7
+        },
+        {
+          "query": "gdb compiler",
+          "value": 6
+        },
+        {
+          "query": "gdb",
+          "value": 6
+        },
+        {
+          "query": "chatgpt online",
+          "value": 6
+        },
+        {
+          "query": "one compiler",
+          "value": 5
+        },
+        {
+          "query": "compiler pdf",
+          "value": 5
+        },
+        {
+          "query": "what is a compiler",
+          "value": 5
+        },
+        {
+          "query": "sql compiler",
+          "value": 5
+        }
+      ],
+      "rising": [
+        {
+          "query": "codedpad",
+          "value": 400
+        },
+        {
+          "query": "prolog online compiler",
+          "value": 150
+        },
+        {
+          "query": "pulms",
+          "value": 120
+        },
+        {
+          "query": "abhyas ai",
+          "value": 90
+        },
+        {
+          "query": "java online compiler gdb",
+          "value": 70
+        },
+        {
+          "query": "poki games",
+          "value": 70
+        },
+        {
+          "query": "gdb java compiler",
+          "value": 60
+        },
+        {
+          "query": "online clipboard",
+          "value": 60
+        },
+        {
+          "query": "online r compiler",
+          "value": 60
+        },
+        {
+          "query": "aditya analysis",
+          "value": 60
+        },
+        {
+          "query": "online compiler php",
+          "value": 50
+        },
+        {
+          "query": "chat gtp",
+          "value": 50
+        },
+        {
+          "query": "mysql compiler",
+          "value": 50
+        },
+        {
+          "query": "mysql",
+          "value": 50
+        },
+        {
+          "query": "online mysql compiler",
+          "value": 50
+        },
+        {
+          "query": "oracle online compiler",
+          "value": 40
+        },
+        {
+          "query": "one compiler sql",
+          "value": 40
+        },
+        {
+          "query": "w3schools python",
+          "value": 40
+        },
+        {
+          "query": "deadshot",
+          "value": 40
+        },
+        {
+          "query": "programiz python online compiler",
+          "value": 40
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Translator",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Translator_20260703_010722.json",
+          "top": [
+            {
+              "query": "translator english",
+              "value": 100
+            },
+            {
+              "query": "translator english to",
+              "value": 79
+            },
+            {
+              "query": "translator google",
+              "value": 68
+            },
+            {
+              "query": "tagalog translator",
+              "value": 27
+            },
+            {
+              "query": "english tagalog translator",
+              "value": 25
+            },
+            {
+              "query": "language translator",
+              "value": 22
+            },
+            {
+              "query": "tagalog to english translator",
+              "value": 22
+            },
+            {
+              "query": "english to tagalog",
+              "value": 21
+            },
+            {
+              "query": "tagalog to english",
+              "value": 21
+            },
+            {
+              "query": "spanish",
+              "value": 16
+            },
+            {
+              "query": "spanish translator",
+              "value": 16
+            },
+            {
+              "query": "deepl translator",
+              "value": 14
+            },
+            {
+              "query": "hindi translator",
+              "value": 14
+            },
+            {
+              "query": "best translator",
+              "value": 12
+            },
+            {
+              "query": "translator online",
+              "value": 12
+            },
+            {
+              "query": "hindi english translator",
+              "value": 12
+            },
+            {
+              "query": "hindi to english translator",
+              "value": 11
+            },
+            {
+              "query": "ai translator",
+              "value": 10
+            },
+            {
+              "query": "translator app",
+              "value": 10
+            },
+            {
+              "query": "english spanish translator",
+              "value": 9
+            },
+            {
+              "query": "pdf translator",
+              "value": 9
+            },
+            {
+              "query": "morse code translator",
+              "value": 8
+            },
+            {
+              "query": "morse translator",
+              "value": 8
+            },
+            {
+              "query": "morse code",
+              "value": 8
+            },
+            {
+              "query": "spanish to english translator",
+              "value": 8
+            }
+          ],
+          "rising": [
+            {
+              "query": "enence übersetzer",
+              "value": 3450
+            },
+            {
+              "query": "traducteur vocal",
+              "value": 3300
+            },
+            {
+              "query": "smart tag",
+              "value": 2000
+            },
+            {
+              "query": "enence",
+              "value": 140
+            },
+            {
+              "query": "enence translator",
+              "value": 130
+            },
+            {
+              "query": "minionese translator",
+              "value": 90
+            },
+            {
+              "query": "minion translator",
+              "value": 70
+            },
+            {
+              "query": "deeple translator",
+              "value": 60
+            },
+            {
+              "query": "minion language translator",
+              "value": 60
+            },
+            {
+              "query": "translator hiszpańsko polski",
+              "value": 60
+            },
+            {
+              "query": "english to kannada translator",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Online",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Online_20260703_010722.json",
+          "top": [
+            {
+              "query": "online casino",
+              "value": 100
+            },
+            {
+              "query": "online casinos",
+              "value": 36
+            },
+            {
+              "query": "games online",
+              "value": 24
+            },
+            {
+              "query": "game online",
+              "value": 21
+            },
+            {
+              "query": "online casinos 🇩🇪 deutschecasino.ink",
+              "value": 16
+            },
+            {
+              "query": "casinos 🇩🇪 deutschecasino.ink",
+              "value": 16
+            },
+            {
+              "query": "online casino ohne limit deutschecasino.ink 🇩🇪",
+              "value": 14
+            },
+            {
+              "query": "online casino boni deutschecasino.ink 🇩🇪",
+              "value": 11
+            },
+            {
+              "query": "tv online",
+              "value": 11
+            },
+            {
+              "query": "word online",
+              "value": 11
+            },
+            {
+              "query": "casino boni 🇩🇪 deutschecasino.ink",
+              "value": 11
+            },
+            {
+              "query": "radio online",
+              "value": 10
+            },
+            {
+              "query": "whatsapp online",
+              "value": 10
+            },
+            {
+              "query": "casino 🇦🇺 casinoclaude.vip",
+              "value": 10
+            },
+            {
+              "query": "online casino casinoclaude.vip 🇦🇺",
+              "value": 10
+            },
+            {
+              "query": "online casinos 🇦🇹 deutschecasino.ink 🇦🇹",
+              "value": 8
+            },
+            {
+              "query": "sbi online",
+              "value": 8
+            },
+            {
+              "query": "online casino ohne lugas 🇩🇪 deutschecasino.ink",
+              "value": 8
+            },
+            {
+              "query": "casino online österreich 🇦🇹 deutschecasino.ink 🇦🇹",
+              "value": 7
+            },
+            {
+              "query": "online games free",
+              "value": 7
+            },
+            {
+              "query": "online calculator",
+              "value": 6
+            },
+            {
+              "query": "mail online",
+              "value": 6
+            },
+            {
+              "query": "beste online casinos",
+              "value": 6
+            },
+            {
+              "query": "chatgpt online",
+              "value": 6
+            },
+            {
+              "query": "excel online",
+              "value": 6
+            }
+          ],
+          "rising": [
+            {
+              "query": "casino ohne limit 🇩🇪 www.deutschecasino.ink 🇩🇪",
+              "value": 43550
+            },
+            {
+              "query": "online casino www.auszahlungsquote9697.com",
+              "value": 27150
+            },
+            {
+              "query": "casino utan svensk licens 🇸🇪 juli jannecasinos.online 🇸🇪",
+              "value": 18200
+            },
+            {
+              "query": "online casino ohne lizenz 🎲 deutschecasino.blog",
+              "value": 12850
+            },
+            {
+              "query": "beste online casinos www.testreport24.de",
+              "value": 11600
+            },
+            {
+              "query": "casino online bonus 🎲 deutschecasino.blog",
+              "value": 10750
+            },
+            {
+              "query": "online casino ohne 1000 limit www.testreport24.de",
+              "value": 10000
+            },
+            {
+              "query": "slothoke980.live",
+              "value": 9900
+            },
+            {
+              "query": "casino 🇸🇪 www.jontecasinos.org",
+              "value": 8150
+            },
+            {
+              "query": "online casino deutschland www.auszahlungsquote9697.com",
+              "value": 7800
+            },
+            {
+              "query": "betting utan licens 🇸🇪 www.jontecasinos.org",
+              "value": 6650
+            },
+            {
+              "query": "casino online österreich 🇦🇹 deutschecasino.ink 🇦🇹",
+              "value": 400
+            },
+            {
+              "query": "online casinos 🇦🇹 deutschecasino.ink 🇦🇹",
+              "value": 300
+            },
+            {
+              "query": "casino 🇦🇺 casinoclaude.vip",
+              "value": 90
+            },
+            {
+              "query": "online casino casinoclaude.vip 🇦🇺",
+              "value": 90
+            },
+            {
+              "query": "online casinos 🇩🇪 deutschecasino.ink",
+              "value": 50
+            },
+            {
+              "query": "casinos 🇩🇪 deutschecasino.ink",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Downloader",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Downloader_20260703_010722.json",
+          "top": [
+            {
+              "query": "downloader video",
+              "value": 100
+            },
+            {
+              "query": "downloader instagram",
+              "value": 32
+            },
+            {
+              "query": "tiktok downloader",
+              "value": 30
+            },
+            {
+              "query": "youtube video downloader",
+              "value": 19
+            },
+            {
+              "query": "download",
+              "value": 18
+            },
+            {
+              "query": "facebook downloader",
+              "value": 17
+            },
+            {
+              "query": "tiktok video downloader",
+              "value": 15
+            },
+            {
+              "query": "instagram video downloader",
+              "value": 12
+            },
+            {
+              "query": "pinterest downloader",
+              "value": 12
+            },
+            {
+              "query": "facebook video downloader",
+              "value": 12
+            },
+            {
+              "query": "pinterest video downloader",
+              "value": 8
+            },
+            {
+              "query": "download video",
+              "value": 8
+            },
+            {
+              "query": "twitter downloader",
+              "value": 7
+            },
+            {
+              "query": "music downloader",
+              "value": 7
+            },
+            {
+              "query": "yt downloader",
+              "value": 7
+            },
+            {
+              "query": "app downloader",
+              "value": 7
+            },
+            {
+              "query": "twitter video downloader",
+              "value": 5
+            },
+            {
+              "query": "youtube download",
+              "value": 5
+            },
+            {
+              "query": "reel downloader",
+              "value": 5
+            },
+            {
+              "query": "video downloader online",
+              "value": 5
+            },
+            {
+              "query": "fb downloader",
+              "value": 4
+            },
+            {
+              "query": "free video downloader",
+              "value": 4
+            },
+            {
+              "query": "scribd",
+              "value": 3
+            },
+            {
+              "query": "slideshare downloader",
+              "value": 2
+            },
+            {
+              "query": "image downloader",
+              "value": 2
+            }
+          ],
+          "rising": [
+            {
+              "query": "instagram video downloader link without watermark",
+              "value": 1100
+            },
+            {
+              "query": "slideshare free downloader",
+              "value": 80
+            },
+            {
+              "query": "slideshare ppt downloader",
+              "value": 60
+            },
+            {
+              "query": "slideshare downloader",
+              "value": 50
+            },
+            {
+              "query": "instagram link downloader",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Maker",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Maker_20260703_010722.json",
+          "top": [
+            {
+              "query": "ice maker",
+              "value": 100
+            },
+            {
+              "query": "coffee maker",
+              "value": 75
+            },
+            {
+              "query": "pdf maker",
+              "value": 35
+            },
+            {
+              "query": "video maker",
+              "value": 31
+            },
+            {
+              "query": "maker world",
+              "value": 27
+            },
+            {
+              "query": "ice cream maker",
+              "value": 27
+            },
+            {
+              "query": "app maker",
+              "value": 22
+            },
+            {
+              "query": "logo maker",
+              "value": 21
+            },
+            {
+              "query": "logo",
+              "value": 21
+            },
+            {
+              "query": "cv",
+              "value": 15
+            },
+            {
+              "query": "cv maker",
+              "value": 15
+            },
+            {
+              "query": "game maker",
+              "value": 15
+            },
+            {
+              "query": "gif",
+              "value": 14
+            },
+            {
+              "query": "home maker",
+              "value": 13
+            },
+            {
+              "query": "gif maker",
+              "value": 13
+            },
+            {
+              "query": "waffle maker",
+              "value": 13
+            },
+            {
+              "query": "resume maker",
+              "value": 12
+            },
+            {
+              "query": "rpg maker",
+              "value": 12
+            },
+            {
+              "query": "resume",
+              "value": 12
+            },
+            {
+              "query": "label maker",
+              "value": 11
+            },
+            {
+              "query": "pdf maker free",
+              "value": 11
+            },
+            {
+              "query": "website maker",
+              "value": 11
+            },
+            {
+              "query": "music maker",
+              "value": 11
+            },
+            {
+              "query": "bread maker",
+              "value": 10
+            },
+            {
+              "query": "song maker",
+              "value": 10
+            }
+          ],
+          "rising": [
+            {
+              "query": "instagram video download without water maker",
+              "value": 100
+            },
+            {
+              "query": "vltd maker",
+              "value": 90
+            },
+            {
+              "query": "how to clean a waffle maker",
+              "value": 70
+            },
+            {
+              "query": "aj model maker",
+              "value": 60
+            },
+            {
+              "query": "invoice maker",
+              "value": 50
+            },
+            {
+              "query": "passport size photo",
+              "value": 50
+            },
+            {
+              "query": "esignature maker",
+              "value": 40
+            },
+            {
+              "query": "how to descale coffee maker",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Creator",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Creator_20260703_010722.json",
+          "top": [
+            {
+              "query": "the creator",
+              "value": 100
+            },
+            {
+              "query": "content creator",
+              "value": 50
+            },
+            {
+              "query": "ai creator",
+              "value": 37
+            },
+            {
+              "query": "tiktok creator",
+              "value": 25
+            },
+            {
+              "query": "youtube creator",
+              "value": 24
+            },
+            {
+              "query": "tyler the creator",
+              "value": 24
+            },
+            {
+              "query": "video creator",
+              "value": 20
+            },
+            {
+              "query": "pdf creator",
+              "value": 20
+            },
+            {
+              "query": "image creator",
+              "value": 16
+            },
+            {
+              "query": "roblox creator",
+              "value": 15
+            },
+            {
+              "query": "creator studio",
+              "value": 15
+            },
+            {
+              "query": "app creator",
+              "value": 14
+            },
+            {
+              "query": "digital creator",
+              "value": 11
+            },
+            {
+              "query": "character creator",
+              "value": 9
+            },
+            {
+              "query": "ugc creator",
+              "value": 9
+            },
+            {
+              "query": "lego creator",
+              "value": 8
+            },
+            {
+              "query": "ugc",
+              "value": 8
+            },
+            {
+              "query": "book creator",
+              "value": 8
+            },
+            {
+              "query": "creator economy",
+              "value": 8
+            },
+            {
+              "query": "website creator",
+              "value": 8
+            },
+            {
+              "query": "apple creator",
+              "value": 8
+            },
+            {
+              "query": "creator hub",
+              "value": 8
+            },
+            {
+              "query": "pdf24",
+              "value": 4
+            },
+            {
+              "query": "zoho creator",
+              "value": 4
+            },
+            {
+              "query": "pdf24 creator",
+              "value": 4
+            }
+          ],
+          "rising": [
+            {
+              "query": "your bank account may need updating to receive creator earnings",
+              "value": 12350
+            },
+            {
+              "query": "dragon age creator ai critique",
+              "value": 6600
+            },
+            {
+              "query": "your bank account may need updating to receive creator earnings artinya",
+              "value": 4650
+            },
+            {
+              "query": "lego 31394 creator red panda",
+              "value": 2600
+            },
+            {
+              "query": "creator of insecure hbo",
+              "value": 1250
+            },
+            {
+              "query": "was ist ein content creator",
+              "value": 200
+            },
+            {
+              "query": "creator micro 2",
+              "value": 180
+            },
+            {
+              "query": "ak creator yt",
+              "value": 160
+            },
+            {
+              "query": "ubisoft creator program",
+              "value": 100
+            },
+            {
+              "query": "lego creator red dragon",
+              "value": 90
+            },
+            {
+              "query": "brawl stars creator",
+              "value": 90
+            },
+            {
+              "query": "supercell creator",
+              "value": 60
+            },
+            {
+              "query": "zoho creator login",
+              "value": 50
+            },
+            {
+              "query": "kill it style creator war",
+              "value": 50
+            },
+            {
+              "query": "zoho creator",
+              "value": 50
+            },
+            {
+              "query": "pdf24",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Editor",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Editor_20260703_010722.json",
+          "top": [
+            {
+              "query": "pdf editor",
+              "value": 100
+            },
+            {
+              "query": "pdf",
+              "value": 91
+            },
+            {
+              "query": "online editor",
+              "value": 48
+            },
+            {
+              "query": "video editor",
+              "value": 41
+            },
+            {
+              "query": "ai editor",
+              "value": 38
+            },
+            {
+              "query": "photo editor",
+              "value": 34
+            },
+            {
+              "query": "pdf online editor",
+              "value": 25
+            },
+            {
+              "query": "free pdf editor",
+              "value": 19
+            },
+            {
+              "query": "ai photo editor",
+              "value": 15
+            },
+            {
+              "query": "ai photo",
+              "value": 15
+            },
+            {
+              "query": "image editor",
+              "value": 14
+            },
+            {
+              "query": "pdf to editor",
+              "value": 14
+            },
+            {
+              "query": "text editor",
+              "value": 11
+            },
+            {
+              "query": "sejda editor",
+              "value": 10
+            },
+            {
+              "query": "sejda",
+              "value": 10
+            },
+            {
+              "query": "pdf editor sejda",
+              "value": 10
+            },
+            {
+              "query": "sejda pdf",
+              "value": 10
+            },
+            {
+              "query": "code editor",
+              "value": 9
+            },
+            {
+              "query": "pdf editor free online",
+              "value": 9
+            },
+            {
+              "query": "video editor free",
+              "value": 8
+            },
+            {
+              "query": "save editor",
+              "value": 8
+            },
+            {
+              "query": "word editor",
+              "value": 7
+            },
+            {
+              "query": "photo editor free",
+              "value": 7
+            },
+            {
+              "query": "ai video editor",
+              "value": 7
+            },
+            {
+              "query": "file editor",
+              "value": 6
+            }
+          ],
+          "rising": [
+            {
+              "query": "live editor fc 26",
+              "value": 80
+            },
+            {
+              "query": "swagger editor",
+              "value": 60
+            },
+            {
+              "query": "json editor online",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Processor",
+          "timestamp": "2026-07-03 01:07:22",
+          "filename": "related_queries_Processor_20260703_010722.json",
+          "top": [
+            {
+              "query": "processor food",
+              "value": 100
+            },
+            {
+              "query": "intel processor",
+              "value": 70
+            },
+            {
+              "query": "intel",
+              "value": 69
+            },
+            {
+              "query": "best processor",
+              "value": 60
+            },
+            {
+              "query": "amd processor",
+              "value": 48
+            },
+            {
+              "query": "amd",
+              "value": 47
+            },
+            {
+              "query": "ryzen processor",
+              "value": 44
+            },
+            {
+              "query": "laptop processor",
+              "value": 39
+            },
+            {
+              "query": "laptop",
+              "value": 39
+            },
+            {
+              "query": "what is processor",
+              "value": 36
+            },
+            {
+              "query": "snapdragon processor",
+              "value": 27
+            },
+            {
+              "query": "ram",
+              "value": 27
+            },
+            {
+              "query": "snapdragon",
+              "value": 27
+            },
+            {
+              "query": "cpu processor",
+              "value": 23
+            },
+            {
+              "query": "i5 processor",
+              "value": 23
+            },
+            {
+              "query": "cpu",
+              "value": 23
+            },
+            {
+              "query": "pc",
+              "value": 19
+            },
+            {
+              "query": "pc processor",
+              "value": 18
+            },
+            {
+              "query": "i7 processor",
+              "value": 18
+            },
+            {
+              "query": "mobile processor",
+              "value": 17
+            },
+            {
+              "query": "data processor",
+              "value": 16
+            },
+            {
+              "query": "payment processor",
+              "value": 16
+            },
+            {
+              "query": "hp",
+              "value": 15
+            },
+            {
+              "query": "latest processor",
+              "value": 14
+            },
+            {
+              "query": "what is a processor",
+              "value": 13
+            }
+          ],
+          "rising": [
+            {
+              "query": "amd epyc 9965 processor 2.25 ghz 384 mb l3 tray",
+              "value": 3950
+            },
+            {
+              "query": "samsung galaxy a18 processor strategy",
+              "value": 1450
+            },
+            {
+              "query": "one plus n6",
+              "value": 180
+            },
+            {
+              "query": "one plus n6 processor",
+              "value": 170
+            },
+            {
+              "query": "oneplus n6",
+              "value": 160
+            },
+            {
+              "query": "oneplus n6 processor",
+              "value": 150
+            },
+            {
+              "query": "samsung m47",
+              "value": 130
+            },
+            {
+              "query": "samsung m47 processor",
+              "value": 130
+            },
+            {
+              "query": "realme gt 7t",
+              "value": 120
+            },
+            {
+              "query": "m47 processor",
+              "value": 110
+            },
+            {
+              "query": "one plus 6 processor",
+              "value": 100
+            },
+            {
+              "query": "one plus",
+              "value": 50
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Generator",
+        "Example",
+        "Convert"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 7
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [
+        {
+          "keyword": "Designer",
+          "timestamp": "2026-07-03 01:15:26",
+          "filename": "related_queries_Designer_20260703_011526.json",
+          "top": [
+            {
+              "query": "graphic designer",
+              "value": 100
+            },
+            {
+              "query": "design",
+              "value": 90
+            },
+            {
+              "query": "designer sale",
+              "value": 85
+            },
+            {
+              "query": "interior designer",
+              "value": 84
+            },
+            {
+              "query": "designer bag",
+              "value": 83
+            },
+            {
+              "query": "fashion designer",
+              "value": 79
+            },
+            {
+              "query": "designer outlet",
+              "value": 58
+            },
+            {
+              "query": "designer bags",
+              "value": 58
+            },
+            {
+              "query": "designer shoes",
+              "value": 56
+            },
+            {
+              "query": "shoes",
+              "value": 56
+            },
+            {
+              "query": "website designer",
+              "value": 54
+            },
+            {
+              "query": "ai designer",
+              "value": 51
+            },
+            {
+              "query": "game designer",
+              "value": 47
+            },
+            {
+              "query": "home designer",
+              "value": 44
+            },
+            {
+              "query": "web designer",
+              "value": 43
+            },
+            {
+              "query": "ux designer",
+              "value": 43
+            },
+            {
+              "query": "product designer",
+              "value": 43
+            },
+            {
+              "query": "designer dress",
+              "value": 39
+            },
+            {
+              "query": "designer shirt",
+              "value": 38
+            },
+            {
+              "query": "brand designer",
+              "value": 34
+            },
+            {
+              "query": "affinity designer",
+              "value": 30
+            },
+            {
+              "query": "designer clothes",
+              "value": 30
+            },
+            {
+              "query": "affinity",
+              "value": 29
+            },
+            {
+              "query": "house designer",
+              "value": 28
+            },
+            {
+              "query": "designer clothing",
+              "value": 27
+            }
+          ],
+          "rising": [
+            {
+              "query": "korean designer shoes 2026 trends",
+              "value": 650
+            },
+            {
+              "query": "used designer handbags",
+              "value": 80
+            },
+            {
+              "query": "axis site designer",
+              "value": 80
+            },
+            {
+              "query": "zebra designer 3",
+              "value": 70
+            },
+            {
+              "query": "solaredge designer",
+              "value": 60
+            },
+            {
+              "query": "zebra designer",
+              "value": 40
+            },
+            {
+              "query": "website designer near me",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Compiler",
+          "timestamp": "2026-07-03 01:15:26",
+          "filename": "related_queries_Compiler_20260703_011526.json",
+          "top": [
+            {
+              "query": "compiler online",
+              "value": 100
+            },
+            {
+              "query": "online",
+              "value": 95
+            },
+            {
+              "query": "python",
+              "value": 43
+            },
+            {
+              "query": "python compiler",
+              "value": 43
+            },
+            {
+              "query": "online python compiler",
+              "value": 30
+            },
+            {
+              "query": "python online",
+              "value": 29
+            },
+            {
+              "query": "java compiler",
+              "value": 28
+            },
+            {
+              "query": "compiler java",
+              "value": 27
+            },
+            {
+              "query": "java",
+              "value": 26
+            },
+            {
+              "query": "java online compiler",
+              "value": 20
+            },
+            {
+              "query": "c++",
+              "value": 17
+            },
+            {
+              "query": "c++ compiler",
+              "value": 17
+            },
+            {
+              "query": "c online compiler",
+              "value": 16
+            },
+            {
+              "query": "online c++ compiler",
+              "value": 9
+            },
+            {
+              "query": "code compiler",
+              "value": 8
+            },
+            {
+              "query": "html",
+              "value": 7
+            },
+            {
+              "query": "compiler html",
+              "value": 7
+            },
+            {
+              "query": "what is compiler",
+              "value": 7
+            },
+            {
+              "query": "gdb compiler",
+              "value": 6
+            },
+            {
+              "query": "gdb",
+              "value": 6
+            },
+            {
+              "query": "chatgpt online",
+              "value": 6
+            },
+            {
+              "query": "one compiler",
+              "value": 5
+            },
+            {
+              "query": "compiler pdf",
+              "value": 5
+            },
+            {
+              "query": "what is a compiler",
+              "value": 5
+            },
+            {
+              "query": "sql compiler",
+              "value": 5
+            }
+          ],
+          "rising": [
+            {
+              "query": "codedpad",
+              "value": 400
+            },
+            {
+              "query": "prolog online compiler",
+              "value": 150
+            },
+            {
+              "query": "pulms",
+              "value": 120
+            },
+            {
+              "query": "abhyas ai",
+              "value": 90
+            },
+            {
+              "query": "java online compiler gdb",
+              "value": 70
+            },
+            {
+              "query": "poki games",
+              "value": 70
+            },
+            {
+              "query": "gdb java compiler",
+              "value": 60
+            },
+            {
+              "query": "online clipboard",
+              "value": 60
+            },
+            {
+              "query": "online r compiler",
+              "value": 60
+            },
+            {
+              "query": "aditya analysis",
+              "value": 60
+            },
+            {
+              "query": "online compiler php",
+              "value": 50
+            },
+            {
+              "query": "chat gtp",
+              "value": 50
+            },
+            {
+              "query": "mysql compiler",
+              "value": 50
+            },
+            {
+              "query": "mysql",
+              "value": 50
+            },
+            {
+              "query": "online mysql compiler",
+              "value": 50
+            },
+            {
+              "query": "oracle online compiler",
+              "value": 40
+            },
+            {
+              "query": "one compiler sql",
+              "value": 40
+            },
+            {
+              "query": "w3schools python",
+              "value": 40
+            },
+            {
+              "query": "deadshot",
+              "value": 40
+            },
+            {
+              "query": "programiz python online compiler",
+              "value": 40
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Analyzer",
+        "Evaluator",
+        "Sender",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 2
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Translator",
+      "query": "enence übersetzer",
+      "value": 3450
+    },
+    {
+      "keyword": "Translator",
+      "query": "traducteur vocal",
+      "value": 3300
+    },
+    {
+      "keyword": "Translator",
+      "query": "smart tag",
+      "value": 2000
+    },
+    {
+      "keyword": "Online",
+      "query": "casino ohne limit 🇩🇪 www.deutschecasino.ink 🇩🇪",
+      "value": 43550
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino www.auszahlungsquote9697.com",
+      "value": 27150
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan svensk licens 🇸🇪 juli jannecasinos.online 🇸🇪",
+      "value": 18200
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino ohne lizenz 🎲 deutschecasino.blog",
+      "value": 12850
+    },
+    {
+      "keyword": "Online",
+      "query": "beste online casinos www.testreport24.de",
+      "value": 11600
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online bonus 🎲 deutschecasino.blog",
+      "value": 10750
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino ohne 1000 limit www.testreport24.de",
+      "value": 10000
+    },
+    {
+      "keyword": "Online",
+      "query": "slothoke980.live",
+      "value": 9900
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇸🇪 www.jontecasinos.org",
+      "value": 8150
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino deutschland www.auszahlungsquote9697.com",
+      "value": 7800
+    },
+    {
+      "keyword": "Online",
+      "query": "betting utan licens 🇸🇪 www.jontecasinos.org",
+      "value": 6650
+    },
+    {
+      "keyword": "Downloader",
+      "query": "instagram video downloader link without watermark",
+      "value": 1100
+    },
+    {
+      "keyword": "Creator",
+      "query": "your bank account may need updating to receive creator earnings",
+      "value": 12350
+    },
+    {
+      "keyword": "Creator",
+      "query": "dragon age creator ai critique",
+      "value": 6600
+    },
+    {
+      "keyword": "Creator",
+      "query": "your bank account may need updating to receive creator earnings artinya",
+      "value": 4650
+    },
+    {
+      "keyword": "Creator",
+      "query": "lego 31394 creator red panda",
+      "value": 2600
+    },
+    {
+      "keyword": "Creator",
+      "query": "creator of insecure hbo",
+      "value": 1250
+    },
+    {
+      "keyword": "Processor",
+      "query": "amd epyc 9965 processor 2.25 ghz 384 mb l3 tray",
+      "value": 3950
+    },
+    {
+      "keyword": "Processor",
+      "query": "samsung galaxy a18 processor strategy",
+      "value": 1450
+    },
+    {
+      "keyword": "Designer",
+      "query": "korean designer shoes 2026 trends",
+      "value": 650
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 9,
+    "failed_keywords": 42,
+    "high_rising_count": 23
+  },
+  "files": {
+    "csv": "data/20260703/daily_report_20260703.csv",
+    "json": "data/20260703/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20260703/daily_report_20260703.csv",
+      "data/20260703/related_queries_Compiler_20260703_011526.json",
+      "data/20260703/related_queries_Creator_20260703_010722.json",
+      "data/20260703/related_queries_Designer_20260703_011526.json",
+      "data/20260703/related_queries_Downloader_20260703_010722.json",
+      "data/20260703/related_queries_Editor_20260703_010722.json",
+      "data/20260703/related_queries_Maker_20260703_010722.json",
+      "data/20260703/related_queries_Online_20260703_010722.json",
+      "data/20260703/related_queries_Processor_20260703_010722.json",
+      "data/20260703/related_queries_Translator_20260703_010722.json"
+    ]
+  }
+}
