@@ -1,0 +1,129 @@
+{
+  "date": "20260724",
+  "generated_at": "2026-07-24 01:11:17",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-07-21 2026-07-24",
+  "region": "Global",
+  "source_directory": "data_20260724",
+  "snapshots": [],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [],
+      "missing_keywords": [
+        "Translator",
+        "Generator",
+        "Example",
+        "Convert",
+        "Online",
+        "Downloader",
+        "Maker",
+        "Creator",
+        "Editor",
+        "Processor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Analyzer",
+        "Evaluator",
+        "Sender",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 0,
+    "failed_keywords": 51,
+    "high_rising_count": 0
+  },
+  "files": {
+    "csv": "",
+    "json": "data/20260724/snapshot.json",
+    "history": "data/history.json",
+    "assets": []
+  }
+}
