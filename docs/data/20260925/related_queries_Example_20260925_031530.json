@@ -1,0 +1,66 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-09-25 03:15:30",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 46
+      },
+      {
+        "query": "yeh monkey saddle graph toh samajh hi nahi aa raha, isse ek example ke saath samjhao.",
+        "value": 9
+      },
+      {
+        "query": "examples",
+        "value": 9
+      },
+      {
+        "query": "essay example",
+        "value": 2
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "cover letter example",
+        "value": 1
+      },
+      {
+        "query": "thesis example",
+        "value": 1
+      },
+      {
+        "query": "example of proper noun",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "example of proper noun",
+        "value": 130
+      },
+      {
+        "query": "yeh monkey saddle graph toh samajh hi nahi aa raha, isse ek example ke saath samjhao.",
+        "value": 90
+      },
+      {
+        "query": "examples",
+        "value": 40
+      }
+    ]
+  }
+}
