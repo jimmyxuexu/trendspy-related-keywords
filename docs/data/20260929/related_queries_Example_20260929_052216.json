@@ -1,0 +1,42 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-09-29 05:22:16",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 45
+      },
+      {
+        "query": "essay example",
+        "value": 2
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "una indirecta",
+        "value": 1
+      }
+    ],
+    "rising": [
+      {
+        "query": "una indirecta",
+        "value": 500
+      }
+    ]
+  }
+}
