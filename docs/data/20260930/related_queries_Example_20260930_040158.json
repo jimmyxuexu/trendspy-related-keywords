@@ -1,0 +1,58 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-09-30 04:01:58",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 45
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "slogan example",
+        "value": 1
+      },
+      {
+        "query": "una indirecta",
+        "value": 1
+      },
+      {
+        "query": "mimikyu pokémon",
+        "value": 1
+      },
+      {
+        "query": "pizza111",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "pizza111",
+        "value": 3200
+      },
+      {
+        "query": "mimikyu pokémon",
+        "value": 600
+      },
+      {
+        "query": "una indirecta",
+        "value": 500
+      },
+      {
+        "query": "slogan example",
+        "value": 200
+      }
+    ]
+  }
+}
