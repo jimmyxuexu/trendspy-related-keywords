@@ -1,0 +1,54 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-10-01 04:05:55",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 46
+      },
+      {
+        "query": "essay example",
+        "value": 2
+      },
+      {
+        "query": "diagram example",
+        "value": 1
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "example of gas",
+        "value": 1
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "slogan example",
+        "value": 1
+      },
+      {
+        "query": "pizza111",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "pizza111",
+        "value": 2750
+      }
+    ]
+  }
+}
