@@ -1,0 +1,78 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-10-08 04:40:27",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 46
+      },
+      {
+        "query": "definition",
+        "value": 6
+      },
+      {
+        "query": "give me an example",
+        "value": 3
+      },
+      {
+        "query": "check example",
+        "value": 2
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "thesis example",
+        "value": 1
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "for example synonym",
+        "value": 1
+      },
+      {
+        "query": "cover letter example",
+        "value": 1
+      },
+      {
+        "query": "metaphor example",
+        "value": 0
+      },
+      {
+        "query": "metaphor",
+        "value": 0
+      },
+      {
+        "query": "mimikyu pokémon",
+        "value": 0
+      },
+      {
+        "query": "una indirecta",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "mimikyu pokémon",
+        "value": 50
+      },
+      {
+        "query": "una indirecta",
+        "value": 50
+      }
+    ]
+  }
+}
