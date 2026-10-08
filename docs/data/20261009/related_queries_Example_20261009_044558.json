@@ -1,0 +1,45 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-10-09 04:45:58",
+  "related_queries": {
+    "top": [
+      {
+        "query": "example of",
+        "value": 100
+      },
+      {
+        "query": "for example",
+        "value": 45
+      },
+      {
+        "query": "definition",
+        "value": 6
+      },
+      {
+        "query": "check example",
+        "value": 2
+      },
+      {
+        "query": "example synonym",
+        "value": 1
+      },
+      {
+        "query": "resume example",
+        "value": 1
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "for example synonym",
+        "value": 1
+      },
+      {
+        "query": "cover letter example",
+        "value": 0
+      }
+    ],
+    "rising": []
+  }
+}
