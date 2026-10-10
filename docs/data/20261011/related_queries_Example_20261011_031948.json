@@ -1,0 +1,62 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-10-11 03:19:48",
+  "related_queries": {
+    "top": [
+      {
+        "query": "for example",
+        "value": 100
+      },
+      {
+        "query": "essay example",
+        "value": 4
+      },
+      {
+        "query": "example synonym",
+        "value": 3
+      },
+      {
+        "query": "example resume",
+        "value": 2
+      },
+      {
+        "query": "official website",
+        "value": 2
+      },
+      {
+        "query": "cv example",
+        "value": 1
+      },
+      {
+        "query": "for example synonym",
+        "value": 1
+      },
+      {
+        "query": "cover letter example",
+        "value": 1
+      },
+      {
+        "query": "御 鬼 生死 簿",
+        "value": 1
+      },
+      {
+        "query": "matchcut",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "official website",
+        "value": 140
+      },
+      {
+        "query": "matchcut",
+        "value": 110
+      },
+      {
+        "query": "御 鬼 生死 簿",
+        "value": 100
+      }
+    ]
+  }
+}
