@@ -1,0 +1,70 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-10-25 02:12:45",
+  "related_queries": {
+    "top": [
+      {
+        "query": "for example",
+        "value": 100
+      },
+      {
+        "query": "resume example",
+        "value": 4
+      },
+      {
+        "query": "check example",
+        "value": 3
+      },
+      {
+        "query": "computer",
+        "value": 3
+      },
+      {
+        "query": "example synonym",
+        "value": 3
+      },
+      {
+        "query": "cv example",
+        "value": 2
+      },
+      {
+        "query": "cover letter example",
+        "value": 2
+      },
+      {
+        "query": "java",
+        "value": 2
+      },
+      {
+        "query": "citation example",
+        "value": 1
+      },
+      {
+        "query": "for example synonym",
+        "value": 1
+      },
+      {
+        "query": "another word for example",
+        "value": 1
+      },
+      {
+        "query": "老虎",
+        "value": 0
+      },
+      {
+        "query": "石油",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "老虎",
+        "value": 6800
+      },
+      {
+        "query": "石油",
+        "value": 550
+      }
+    ]
+  }
+}
